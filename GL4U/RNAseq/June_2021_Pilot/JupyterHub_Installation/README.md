@@ -4,7 +4,7 @@ The GL4U: June 2021 RNAseq Bootcamp was designed to run using a series of Jupyte
 
 ## Installing JupyterHub on a CentOS 7 HPC
 
-The following instructions were modified from the [Install JupyterHub and JupyterLab from the ground up](https://github.com/jupyterhub/jupyterhub-the-hard-way/blob/HEAD/docs/installation-guide-hard.md) instructions, which provides a tutoral for installation of JupyterHub on an Ubuntu 18.04 system. The instructions below were modified to enable JupyterHub installation on the SJSU RHEL CentOS HPC.
+The following instructions were modified from the [Install JupyterHub and JupyterLab from the ground up](https://github.com/jupyterhub/jupyterhub-the-hard-way/blob/HEAD/docs/installation-guide-hard.md) instructions, which provides a tutorial for installation of JupyterHub on an Ubuntu 18.04 system. The instructions below were modified to enable JupyterHub installation on the SJSU RHEL CentOS HPC.
 
 > The SJSU HPC has the [Intel Distribution for Python](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html#gs.8nrglu) installed, which is an [Anaconda](https://www.anaconda.com/) base Python distribution so conda commands can be used to create conda environments and install Python packages. On the SJSU HPC, the Intel Distribution for Python is installed in `/opt/intel/intelpython3/` so the environment created below will be saved in `/opt/intel/intelpython3/envs`. Be sure to change the paths in the instructions below to match your system environment.
 
