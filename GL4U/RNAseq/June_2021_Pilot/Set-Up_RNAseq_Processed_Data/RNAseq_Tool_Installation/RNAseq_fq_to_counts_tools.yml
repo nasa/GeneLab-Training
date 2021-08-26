@@ -1,0 +1,14 @@
+name: RNAseq_fq_to_counts_tools
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python
+  - fastqc=0.11.9
+  - multiqc=1.9
+  - rsem=1.3.1
+  - samtools
+  - star=2.7.7a
+  - cutadapt=3.2
+  - trim-galore=0.6.6
