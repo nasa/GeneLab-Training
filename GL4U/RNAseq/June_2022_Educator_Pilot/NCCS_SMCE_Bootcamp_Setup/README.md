@@ -5,7 +5,7 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
 ---
 ## Request Access To the NCCS SMCE GL4U JupyterHub
 
-1. Sign up for a 3-consecutive week time slot [here]().
+1. Sign up for a 3-consecutive week time slot [here](temp.md).
    > Note: Only one educator per 3-week time slot
 
 2. Send a list of up to 30 students, with the following info for each student, to Amanda (amanda.m.saravia-butler@nasa.gov) at least 2 weeks before the start of your 3-week time slot. 
