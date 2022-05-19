@@ -24,6 +24,7 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
 Once accounts have been set up for the educator(s) and all students, follow the instructions below to get started:
 
 1. Go to [https://daskhub.gl4u.mysmce.com/](https://daskhub.gl4u.mysmce.com/) and type in your username and password. You will receive a text message with a code to fill in on the next screen.
+   > Note: If it is your first time logging in, you will be prompted to change your password.
 
 <br>
 
