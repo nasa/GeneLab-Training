@@ -1,6 +1,6 @@
 # GL4U: June 2022 RNAseq Educator Bootcamp - Pilot
 
-This directory holds the bootcamp setup instructions and training materials used for the pilot GL4U: RNA sequencing (RNAseq) Educator Bootcamp, which was developed through a collaboration between [NASA GeneLab](https://genelab.nasa.gov/) and the [NASA Center for Climate Simulation, NCCS](https://www.nccs.nasa.gov/) [Science Managed Could Environment, SMCE](https://www.nccs.nasa.gov/systems/SMCE) team. The pilot GL4U: RNAseq Educator Bootcamp contains materials similar to the [2021 GL4U: RNAseq Student Bootcamp](../June_2021_Student_Pilot), including introductory command line and space biology-specific lectures, hands-on instruction via Jupyter Notebooks (JNs) for running general Unix and R commands and for processing RNAseq data using [GeneLab's RNAseq standard processing pipeline, version D](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-D.md), but also contains instructions for educators to subsequently teach the bootcamp content at their home institution. These materials were organized into a week and a half long training program as detailed in the [schedule](Bootcamp_Schedule.md). The entire bootcamp will be recorded and the recordings will be uploaded [here](), broken up based on each day of instruction indicated in the [schedule](Bootcamp_Schedule.md).
+This directory holds the bootcamp setup instructions and training materials used for the pilot GL4U: RNA sequencing (RNAseq) Educator Bootcamp, which was developed through a collaboration between [NASA GeneLab](https://genelab.nasa.gov/) and the [Jet Propulsion Laboratory (JPL) Planetary Protection Center of Excellence’s (PPCoE)](https://planetaryprotection.jpl.nasa.gov/) Virtual Opportunities for BIoinformatiCs RESearch (VOICES) program, and utilizes the [NASA Center for Climate Simulation, NCCS](https://www.nccs.nasa.gov/) [Science Managed Could Environment, SMCE](https://www.nccs.nasa.gov/systems/SMCE) system for compute resources. The pilot GL4U: RNAseq Educator Bootcamp contains materials similar to the [2021 GL4U: RNAseq Student Bootcamp](../June_2021_Student_Pilot), including introductory command line and space biology-specific lectures, hands-on instruction via Jupyter Notebooks (JNs) for running general Unix and R commands and for processing RNAseq data using [GeneLab's RNAseq standard processing pipeline, version D](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-D.md), but also contains instructions for educators to subsequently teach the bootcamp content at their home institution. These materials were organized into a week and a half long training program as detailed in the [schedule](Bootcamp_Schedule.md). The entire bootcamp will be recorded and the recordings will be uploaded [here](), broken up based on each day of instruction indicated in the [schedule](Bootcamp_Schedule.md).
 
 ---
 ## Bootcamp Setup Instructions
@@ -23,4 +23,10 @@ The following people have developed the content and instructions for running thi
 - Amanda Saravia-Butler (GeneLab Data Processing)
 - Lauren Sanders (GeneLab Data Processing)
 - Philip Heller (San Jose State University, Assistant Professor)
+- Alvin Smith (JPL PPCoE)
+- Arman Seuylemezian (JPL PPCoE)
+- Lisa Guan (JPL PPCoE)
+
+---
+### Compute Resources
 - NASA NCCS SMCE Team (NASA Goddard Space Flight Center, Greenbelt, MD)
