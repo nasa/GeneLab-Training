@@ -14,7 +14,7 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
    > Full name  
    > Proposed username (lastname_firstinitial)   
    > E-mail address  
-   > A US phone number capable of receiving SMS text mesages   
+   > A US phone number capable of receiving SMS text messages   
 
 3. Amanda will notify you when all user accounts have been set up within 1-week of your 3-week time slot.
 
