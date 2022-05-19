@@ -195,7 +195,7 @@
 1.	Are the data for all samples stranded or unstranded?
 	> Stranded
 
-2.	If stranded, what is the orientitation of the reads relative to the reference?
+2.	If stranded, what is the orientation of the reads relative to the reference?
 	> Antisense
 
 ---
