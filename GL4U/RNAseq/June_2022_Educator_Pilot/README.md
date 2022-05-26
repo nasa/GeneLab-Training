@@ -9,13 +9,14 @@ To run the GL4U: RNAseq Bootcamp at your home institution, instructors must requ
 
 ---
 ## Training Materials
-Throughout the bootcamp, instruction transitions between lectures and hands-on training. In the links below, we provide 3 complete slide decks for each major topic covered, and those same slide decks split-up into sections based on when the material was taught during the week and a half long bootcamp. We also provide 4 JNs that contain the hands-on training corresponing to the lecture material, as well as completed versions of each JN. For information about when each section of the JNs were taught during the bootcamp see the [schedule](Bootcamp_Schedule.md). 
+Throughout the bootcamp, instruction transitions between lectures and hands-on training. In the links below, we provide 4 complete slide decks for each major topic covered, and those same slide decks split-up into sections based on when the material was taught during the week and a half long bootcamp. We also provide 4 JNs that contain the hands-on training corresponing to the lecture material, as well as completed versions of each JN. For information about when each section of the JNs were taught during the bootcamp see the [schedule](Bootcamp_Schedule.md). 
 
 |Bootcamp [Lectures](Lectures)|Corresponding hands-on training via JNs|
 |:---------------------------:|:-------------------------------------:|
 |[Introduction to NASA, Space Biology, GeneLab, JPL PP VOICES, and the Command Line](Lectures/NASA_GL_CL_Intro)|[How to set up and run basic Unix and R commands on the command line and through the JN environment](Intro_JNs)|
 |[RNAseq and Data Processing Overview](Lectures/RNAseq_Overview)|[Process raw RNAseq data from GLDS-104 to generate gene count data](RNAseq_fastq_to_counts_JN)|
 |[Overview of the Statistics Used for RNAseq Data Analysis](Lectures/Statistics_Intro)|[Analyze RNAseq gene count data to generate differential gene expression data and corresponding visualizations](RNAseq_DGE_JN)|
+|[Overview of Planetary Protection Metagenomics Projects](Lectures/PP_Metagenomics_Overview)|N/A|
 
 ---
 ### Content Contributors
