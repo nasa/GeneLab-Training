@@ -12,14 +12,14 @@
 |Noon – 1215pm | Logging into the NCCS SMCE system | TBA
 |1215pm – 130pm | Begin Unix Intro JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Finish Unix Intro JN | TBA
+|150pm – 3pm | Continue Unix Intro JN | TBA
 
 ---
 ## Day 2 Wednesday (6/1/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 930am | Begin R Intro JN | TBA
+|8am – 930am | Finish Unix Intro JN / Begin R Intro JN | TBA
 |930am – 950am | BREAK | TBA
 |950am – 11am | Finish R Intro JN | TBA
 |11am – Noon | LUNCH | TBA
