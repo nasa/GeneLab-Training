@@ -12,20 +12,20 @@
 |Noon – 1215pm | Logging into the NCCS SMCE system | TBA
 |1215pm – 130pm | Begin Unix Intro JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Continue Unix Intro JN | TBA
+|150pm – 3pm | Unix Intro JN through 2.a.cp | TBA
 
 ---
 ## Day 2 Wednesday (6/1/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 930am | Finish Unix Intro JN / Begin R Intro JN | TBA
+|8am – 930am | Unix Intro JN through 2.a.cat | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | Finish R Intro JN | TBA
+|950am – 11am | Finish Unix Intro JN / Begin R Intro JN | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 110pm | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture | TBA
+|Noon – 110pm | Finish R Intro JN | TBA
 |110pm – 130pm | BREAK | TBA
-|130pm – 3pm | Debrief on Unix and R Intro JNs | TBA
+|130pm – 3pm | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
 
 ---
 ## Day 3 Thursday (6/2/2022):
