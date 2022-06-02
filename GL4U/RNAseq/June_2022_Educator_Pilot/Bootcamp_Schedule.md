@@ -32,22 +32,22 @@
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Finish R Intro JN | TBA
-|830am – 930am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
+|8am – 930am | Finish R Intro JN | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | Begin RNAseq Overview through raw data generation (lecture) | TBA
+|950am – 1040am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
+|1040am – 11am | Begin RNAseq Overview through RTqPCR (lecture) | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Continue RNAseq Overview through trimmed QC (lecture) | TBA
+|Noon – 130pm | Continue RNAseq Overview through Library QC (lecture) | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Begin Fastq-to-Counts JN – through trimmed QC | TBA
+|150pm – 3pm | Continue RNAseq Overview through Raw Data (lecture) | TBA
 
 ---
 ## Day 4 Friday (6/3/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Questions from yesterday’s RNAseq Overview lecture material | TBA
-|830am – 930am | RNAseq Overview through alignment (lecture) | TBA
+|8am – 830am | Continue RNAseq Overview through trimmed QC (lecture) | TBA
+|830am – 930am | Begin Fastq-to-Counts JN – through trimmed QC | TBA
 |930am – 950am | BREAK | TBA
 |950am – 1030am | RNAseq Overview through alignment QC (lecture) | TBA
 |1030am – 11am | Fastq-to-Counts JN – through STAR index | TBA
