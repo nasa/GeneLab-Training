@@ -25,14 +25,15 @@
 |11am – Noon | LUNCH | TBA
 |Noon – 110pm | Continue R Intro JN through 1.c.head() | TBA
 |110pm – 130pm | BREAK | TBA
-|130pm – 3pm | Finish R Intro JN | TBA
+|130pm – 3pm | Continue R Intro JN through 1.d.Combine data frames | TBA
 
 ---
 ## Day 3 Thursday (6/2/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 930am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
+|8am – 830am | Finish R Intro JN | TBA
+|830am – 930am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
 |930am – 950am | BREAK | TBA
 |950am – 11am | Begin RNAseq Overview through raw data generation (lecture) | TBA
 |11am – Noon | LUNCH | TBA
