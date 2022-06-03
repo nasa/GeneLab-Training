@@ -46,42 +46,42 @@
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Continue RNAseq Overview through trimmed QC (lecture) | TBA
-|830am – 930am | Begin Fastq-to-Counts JN – through trimmed QC | TBA
+|8am – 930am | Continue RNAseq Overview through trimmed QC (lecture) | TBA
 |930am – 950am | BREAK | TBA
-|950am – 1030am | RNAseq Overview through alignment QC (lecture) | TBA
-|1030am – 11am | Fastq-to-Counts JN – through STAR index | TBA
+|950am – 11am | Begin Fastq-to-Counts JN – through raw fastqc job submission | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Fastq-to-Counts JN – through alignment QC | TBA
+|Noon – 130pm | Fastq-to-Counts JN – through raw multiQC | TBA
 |130pm – 150pm | BREAK | TBA
-|130pm – 230pm | RNAseq Overview through infer expt QC (lecture) | TBA
-|230pm – 3pm | Fastq-to-Counts JN – through infer expt QC | TBA
+|150pm – 3pm | Fastq-to-Counts JN – through TrimGalore! | TBA
 
 ---
 ## Day 5 Monday (6/6/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Questions from yesterday’s RNAseq Overview lecture material | TBA
-|830am – 930am | RNAseq Overview through counts table (lecture) | TBA
+|8am – 830am | Questions from last week's material | TBA
+|830am – 9am | Fastq-to-Counts JN – through trimmed QC | TBA
+|9am – 930am | RNAseq Overview through alignment QC (lecture) | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | Finish Fastq-to-Counts JN | TBA
+|950am – 11am | Fastq-to-Counts JN – through alignment QC | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Debrief on RNAseq Overview through counts table (lecture) | TBA
+|Noon – 1230pm | RNAseq Overview through infer expt QC (lecture) | TBA
+|1230pm – 130pm | Fastq-to-Counts JN – through infer expt QC | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Begin debrief on Fastq-to-Counts JN | TBA
+|150pm – 3pm | RNAseq Overview through counts table (lecture) | TBA
 
 ---
 ## Day 6 Tuesday (6/7/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Finish debrief on Fastq-to-Counts JN | TBA
-|830am – 910am | Finish RNAseq Overview (lecture) | TBA
-|910am – 930am | BREAK | TBA
-|930am – 11am | DGE JN step 1 (import and format data) | TBA
+|8am – 830am | Questions from yesterday’s RNAseq Overview lecture material | TBA
+|830am – 930am | Finish Fastq-to-Counts JN | TBA
+|930am – 950am | BREAK | TBA
+|950am – 11am | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Stats lecture through end of hypothesis testing | TBA
+|Noon – 1230pm | Finish RNAseq Overview (lecture) | TBA
+|1230pm – 130pm | DGE JN step 1 (import and format data) | TBA
 |130pm – 150pm | BREAK | TBA
 |150pm – 3pm | Stats lecture through end of DESeq2 | TBA
 
