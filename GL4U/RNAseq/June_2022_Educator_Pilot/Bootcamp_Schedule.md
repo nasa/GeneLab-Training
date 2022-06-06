@@ -61,22 +61,26 @@
 |:---------|:-------|:--------------|
 |8am – 830am | Questions from last week's material | TBA
 |830am – 9am | Fastq-to-Counts JN – through trimmed QC | TBA
-|9am – 930am | RNAseq Overview through alignment QC (lecture) | TBA
+|9am – 930am | RNAseq Overview through splice unaware/aware aligners (lecture) | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | Fastq-to-Counts JN – through alignment QC | TBA
+|950am – 1040am | RNAseq Overview through alignment QC (lecture) | TBA
+|1040am – 11am | Fastq-to-Counts JN – through STAR alignment | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1230pm | RNAseq Overview through infer expt QC (lecture) | TBA
-|1230pm – 130pm | Fastq-to-Counts JN – through infer expt QC | TBA
+|noon – 130pm | Fastq-to-Counts JN – through alignment QC | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | RNAseq Overview through counts table (lecture) | TBA
+|150pm – 215pm | Fastq-to-Counts JN – through index aligned reads | TBA
+|215pm – 235pm | RNAseq Overview through infer expt QC (lecture) | TBA
+|235pm – 3pm | Fastq-to-Counts JN – through infer expt | TBA
 
 ---
 ## Day 6 Tuesday (6/7/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Questions from yesterday’s RNAseq Overview lecture material | TBA
-|830am – 930am | Finish Fastq-to-Counts JN | TBA
+|8am – 815am | Questions from yesterday’s RNAseq Overview lecture material | TBA
+|815am – 830am | Fastq-to-Counts JN – through infer expt QC | TBA
+|830am – 9am | RNAseq Overview through counts table (lecture) | TBA
+|9am – 930am | Finish Fastq-to-Counts JN | TBA
 |930am – 950am | BREAK | TBA
 |950am – 11am | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | TBA
 |11am – Noon | LUNCH | TBA
