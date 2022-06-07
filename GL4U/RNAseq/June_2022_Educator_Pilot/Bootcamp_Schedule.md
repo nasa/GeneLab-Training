@@ -104,7 +104,7 @@
 |Noon – 1230pm | Finish Stats lecture | TBA
 |1230pm – 130pm | Finish DGE JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 330pm | Begin PP (VOICES I) / Metagenomics Overview | TBA
+|150pm – 3pm | Begin PP (VOICES I) / Metagenomics Overview | TBA
 
 ---
 ## Day 8 Thursday (6/9/2022):
