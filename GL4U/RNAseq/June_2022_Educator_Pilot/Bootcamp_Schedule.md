@@ -78,29 +78,31 @@
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
 |8am – 815am | Questions from yesterday’s RNAseq Overview lecture material | TBA
-|815am – 830am | Fastq-to-Counts JN – through infer expt QC | TBA
-|830am – 9am | RNAseq Overview through counts table (lecture) | TBA
-|9am – 930am | Finish Fastq-to-Counts JN | TBA
+|815am – 905am | Fastq-to-Counts JN – through infer expt QC | TBA
+|905am – 930am | RNAseq Overview through RSEM output (lecture) | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | TBA
+|950am – 10am | RNAseq Overview through RSEM counts table (lecture) | TBA
+|10am – 11am | Fastq-to-Counts JN – through RSEM counts QC | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1230pm | Finish RNAseq Overview (lecture) | TBA
-|1230pm – 130pm | DGE JN step 1 (import and format data) | TBA
+|Noon – 1220pm | Finish Fastq-to-Counts JN | TBA
+|1220pm – 130pm | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Stats lecture through end of DESeq2 | TBA
+|150pm – 215pm | Finish RNAseq Overview (lecture) | TBA
+|215pm – 3pm | DGE JN through import DESeqDataSetObject | TBA
 
 ---
 ## Day 7 Wednesday (6/8/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Questions from yesterday | TBA
-|830am – 930am | DGE JN step 2 (DESeq2 data normalization and PCAs) | TBA
+|8am – 815am | Questions from yesterday | TBA
+|815am – 830am | DGE JN through step 1 (import and format data) | TBA
+|830am – 930am | Stats lecture through end of DESeq2 | TBA
 |930am – 950am | BREAK | TBA
-|950am – 1020am | DGE JN step 3 (DESeq2 DGE) | TBA
-|1020am – 11am | Finish Stats lecture | TBA
+|950am – 11am | DGE JN through step 3 (DESeq2 DGE) | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Finish DGE JN | TBA
+|Noon – 1230pm | Finish Stats lecture | TBA
+|1230pm – 130pm | Finish DGE JN | TBA
 |130pm – 150pm | BREAK | TBA
 |150pm – 330pm | Begin PP (VOICES I) / Metagenomics Overview | TBA
 
