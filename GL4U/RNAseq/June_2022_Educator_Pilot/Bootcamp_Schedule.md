@@ -101,19 +101,20 @@
 |930am – 950am | BREAK | TBA
 |950am – 11am | DGE JN through step 3 (DESeq2 DGE) | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1230pm | Finish Stats lecture | TBA
-|1230pm – 130pm | Finish DGE JN | TBA
+|Noon – 130pm | Finish Stats lecture | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Begin PP (VOICES I) / Metagenomics Overview | TBA
+|1230pm – 130pm | Finish DGE JN | TBA
 
 ---
 ## Day 8 Thursday (6/9/2022):
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 910am | Finish PP (VOICES I) / Metagenomics Overview | TBA
+|8am – 820am | Questions from yesterday | TBA
+|820am – 910am | Begin PP (VOICES I) / Metagenomics Overview | TBA
 |910am – 930am | BREAK | TBA
-|930am –  11am | Debrief on Stats lecture | TBA
+|930am – 1030am | Finish PP (VOICES I) / Metagenomics Overview | TBA
+|1030am –  11am | Debrief on Stats lecture | TBA
 |11am – Noon | LUNCH | TBA
 |Noon – 1pm | Debrief on DGE JN | TBA
 |1pm – 130pm | Sign up for NCCS SMCE resources overview | TBA
