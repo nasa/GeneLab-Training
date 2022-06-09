@@ -60,7 +60,7 @@ Once accounts have been set up for the educator(s) and all students, follow the 
 
 <br>
 
-2. You will then be prompted to select a server. Select the "Small Server (On Demand)" from the option list and click "Start" as shown below:
+2. You will then be prompted to select a server. Select the "Small Server (On-Demand)" from the option list and click "Start" as shown below:
 
 <img src="images/server_options.png" align="center" alt=""/>
 
