@@ -96,14 +96,17 @@
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
 |8am – 815am | Questions from yesterday | TBA
-|815am – 830am | DGE JN through step 1 (import and format data) | TBA
-|830am – 930am | Stats lecture through end of DESeq2 | TBA
+|815am – 840am | DGE JN through step 1 (import and format data) | TBA
+|840am – 930am | Stats lecture through end of PCA | TBA
 |930am – 950am | BREAK | TBA
-|950am – 11am | DGE JN through step 3 (DESeq2 DGE) | TBA
+|950am – 1035am | Stats lecture through end of DESeq2 | TBA
+|1035am – 11am | DGE JN through raw PCA | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 130pm | Finish Stats lecture | TBA
+|Noon – 130pm | DGE JN through adding annotations  | TBA
 |130pm – 150pm | BREAK | TBA
-|1230pm – 130pm | Finish DGE JN | TBA
+|150pm – 215pm | DGE JN through step 3 | TBA
+|215pm – 230pm | Finish Stats lecture | TBA
+|230pm – 3pm | DGE JN through PCA of DEGs (Step 4a) | TBA
 
 ---
 ## Day 8 Thursday (6/9/2022):
@@ -114,10 +117,10 @@
 |820am – 910am | Begin PP (VOICES I) / Metagenomics Overview | TBA
 |910am – 930am | BREAK | TBA
 |930am – 1030am | Finish PP (VOICES I) / Metagenomics Overview | TBA
-|1030am –  11am | Debrief on Stats lecture | TBA
+|1030am –  11am | Finish DGE JN | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1pm | Debrief on DGE JN | TBA
-|1pm – 130pm | Sign up for NCCS SMCE resources overview | TBA
+|Noon – 115pm | Debrief on Stats lecture and DGE JN | TBA
+|115pm – 130pm | Sign up for NCCS SMCE resources overview | TBA
 |130pm – 150pm | BREAK | TBA
 |150pm – 240pm | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
 |240pm – 3pm | Wrap up / Final questions and comments | TBA
