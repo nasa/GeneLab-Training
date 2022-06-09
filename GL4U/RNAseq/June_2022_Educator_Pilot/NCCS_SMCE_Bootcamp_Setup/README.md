@@ -8,7 +8,7 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
 1. Sign up for an available 3-consecutive week time slot by clicking [here](https://calendar.google.com/calendar/u/0?cid=a2k0Z2lpbWFjMHA0NmpwbmdyanFxYmtxdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
    > Note: Only one educator per 3-week time slot
 
-2. Once you have the google calendar open, click the create button on the top right then select "Event" as shown below:
+2. Once you have the google calendar open, click the create button on the top left then select "Event" as shown below:
 
 <img src="images/cal_create.png" align="center" alt=""/>
 
