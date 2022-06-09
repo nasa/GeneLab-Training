@@ -113,16 +113,18 @@
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 820am | Questions from yesterday | TBA
+|8am – 810am | Questions from yesterday | TBA
 |820am – 910am | Begin PP (VOICES I) / Metagenomics Overview | TBA
 |910am – 930am | BREAK | TBA
-|930am – 1030am | Finish PP (VOICES I) / Metagenomics Overview | TBA
-|1030am –  11am | Debrief on PP (VOICES I) / Metagenomics Overview Material | TBA
+|930am – 950am | Finish PP (VOICES I) / Metagenomics Overview | TBA
+|950am –  1005am | Debrief on PP (VOICES I) / Metagenomics Overview Material | TBA
+|1005am – 11am | DGE JN through Volcano Plot (Step 4c) | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1230pm | Finish DGE JN | TBA
-|1230 – 130pm | Debrief on Stats lecture and DGE JN | TBA
+|Noon – 1245pm | Finish DGE JN | TBA
+|1245pm – 130pm | Debrief on Stats lecture and DGE JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Modify Unix and R Intro JNs | TBA
+|150pm – 230pm | Educator Experiences and Suggestions for Virtual Teaching | TBA
+|230pm – 3pm | Modify Unix and R Intro JNs | TBA
 
 ---
 ## Day 9 Friday (6/10/2022):
