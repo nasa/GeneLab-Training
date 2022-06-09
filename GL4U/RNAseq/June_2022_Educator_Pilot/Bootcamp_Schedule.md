@@ -117,16 +117,27 @@
 |820am – 910am | Begin PP (VOICES I) / Metagenomics Overview | TBA
 |910am – 930am | BREAK | TBA
 |930am – 1030am | Finish PP (VOICES I) / Metagenomics Overview | TBA
-|1030am –  11am | Finish DGE JN | TBA
+|1030am –  11am | Debrief on PP (VOICES I) / Metagenomics Overview Material | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 115pm | Debrief on Stats lecture and DGE JN | TBA
-|115pm – 130pm | Sign up for NCCS SMCE resources overview | TBA
+|Noon – 1230pm | Finish DGE JN | TBA
+|1230 – 130pm | Debrief on Stats lecture and DGE JN | TBA
 |130pm – 150pm | BREAK | TBA
-|150pm – 240pm | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
-|240pm – 3pm | Wrap up / Final questions and comments | TBA
+|150pm – 3pm | Modify Unix and R Intro JNs | TBA
 
 ---
 ## Day 9 Friday (6/10/2022):
 
-Buffer Day: Complete any outstanding items from the bootcamp.
-
+|Time (PDT)|Activity|Video Recording|
+|:---------|:-------|:--------------|
+|8am – 830am | Questions from yesterday | TBA
+|830am –  930am | Modify Fastq-to-Counts JN | TBA
+|930am – 950am | BREAK | TBA
+|950am – 1030am | Modify DGE JN | TBA
+|1030am – 11am | Sign up for NCCS SMCE resources overview | TBA
+|11am – Noon | LUNCH | TBA
+|Noon – 1230pm | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
+|1230pm – 1pm | Take the post-bootcamp survey | TBA
+|1pm – 130pm | Install Conda, Jupyter, and R Locally | TBA
+|130pm – 150pm | BREAK | TBA
+|150pm – 230pm | Running GeneLab Scripts Locally | TBA
+|230pm – 3pm | Wrap up / Final questions and comments | TBA
