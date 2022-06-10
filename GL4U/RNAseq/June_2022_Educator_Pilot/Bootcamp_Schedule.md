@@ -131,15 +131,17 @@
 
 |Time (PDT)|Activity|Video Recording|
 |:---------|:-------|:--------------|
-|8am – 830am | Questions from yesterday | TBA
-|830am –  930am | Modify Fastq-to-Counts JN | TBA
+|8am – 815am | Questions from yesterday | TBA
+|815am –  9am | Modify Fastq-to-Counts JN | TBA
+|9am – 930am | Modify DGE JN | TBA
 |930am – 950am | BREAK | TBA
-|950am – 1030am | Modify DGE JN | TBA
-|1030am – 11am | Sign up for NCCS SMCE resources overview | TBA
+|950am – 1010am | Modify DGE JN | TBA
+|1010am – 1030am | Sign up for NCCS SMCE resources overview | TBA
+|1030am – 11am | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 1230pm | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
-|1230pm – 1pm | Take the post-bootcamp survey | TBA
-|1pm – 130pm | Install Conda, Jupyter, and R Locally | TBA
-|130pm – 150pm | BREAK | TBA
-|150pm – 230pm | Running GeneLab Scripts Locally | TBA
-|230pm – 3pm | Wrap up / Final questions and comments | TBA
+|Noon – 110pm | Take the post-bootcamp survey | TBA
+|110pm – 130pm | BREAK | TBA
+|130pm – 150pm | Discuss MatLab, Python, and other coding languages | TBA
+|150pm – 225pm | Install Conda, Jupyter, and R Locally | TBA
+|225pm – 245pm | Running GeneLab DGE Script Locally | TBA
+|245pm – 3pm | Wrap up / Final questions and comments / Chiefe musical performance | TBA
