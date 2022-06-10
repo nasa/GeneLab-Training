@@ -139,9 +139,10 @@
 |1010am – 1030am | Sign up for NCCS SMCE resources overview | TBA
 |1030am – 11am | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
 |11am – Noon | LUNCH | TBA
-|Noon – 110pm | Take the post-bootcamp survey | TBA
+|Noon – 1240pm | Take the post-bootcamp survey | TBA
+|1240pm – 110pm | Install Conda, Jupyter, and R Locally | TBA
 |110pm – 130pm | BREAK | TBA
 |130pm – 150pm | Discuss MatLab, Python, and other coding languages | TBA
-|150pm – 225pm | Install Conda, Jupyter, and R Locally | TBA
-|225pm – 245pm | Running GeneLab DGE Script Locally | TBA
+|150pm – 210pm | Finish installing Conda, Jupyter, and R Locally | TBA
+|210pm – 245pm | Running GeneLab DGE Script Locally | TBA
 |245pm – 3pm | Wrap up / Final questions and comments / Chiefe musical performance | TBA
