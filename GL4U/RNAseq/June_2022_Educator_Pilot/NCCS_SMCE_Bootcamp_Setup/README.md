@@ -73,6 +73,10 @@ Once accounts have been set up for the educator(s) and all students, follow the 
 4. In the terminal window, run the following command to copy all the files needed to run the bootcamp to your `/home` directory:
 
 `/efs/GL4U/RNAseq_Bootcamps/202206_RNAseq_Educator/copy_JN_files.sh`
+
+   > If you modified the JNs and want to use your modified JNs when teaching at your home institution, run the following command instead:
+   > `/efs/GL4U/RNAseq_Bootcamps/202206_RNAseq_Educator/copy_flastname_JN_files.sh`
+   > Where f is the first initial of your last name (lowercase) and lastname is your last name (lowercase).
   
 <br>
   
