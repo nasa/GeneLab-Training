@@ -128,7 +128,7 @@ Once accounts have been set up for the educator(s) and all students, follow the 
 
 If you are have having issues with your SMCE server instance and re-setting the kernel (as described in [step 7](#RestartKernel) above) does not resolve the issue, you may have to stop your current server instance and start a new one as described below:
 
-**1. To stop your server go to `File` (in the top left corner) then click on `Hub Control Panel` as shown in the image below:
+**1. To stop your server go to `File` (in the top left corner) then click on `Hub Control Panel` as shown in the image below:**
    > Note: This will open up a new window.**
 
 <img src="images/File_HCP.png" align="center" alt=""/>
