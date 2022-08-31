@@ -4,7 +4,7 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 930am | <br />Welcome / Intros <br />Lecture: Intro to NASA, Space Biology, and GeneLab | <br />[GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:13:30) <br />(TimeStamp: 00:13:50 – 01:17:00)
+|8am – 930am | <br />Welcome / Intros <br />Lecture: Intro to NASA, Space Biology, and GeneLab | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:13:30) <br />(TimeStamp: 00:13:50 – 01:17:00)
 |930am – 950am | BREAK | N/A
 |950am – 1020am | Lecture: Planetary Protection (PP) - VOICES I | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:30 – 00:23:45)
 |1020am – 11am | Lecture: Intro to Command Line | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:24:06 – 01:08:18)
