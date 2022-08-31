@@ -16,42 +16,42 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
 ---
 ## Request Access To the NCCS SMCE GL4U JupyterHub
 
-1. Sign up for an available 3-consecutive week time slot by clicking [here](https://calendar.google.com/calendar/u/0?cid=a2k0Z2lpbWFjMHA0NmpwbmdyanFxYmtxdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+**1. Sign up for an available 3-consecutive week time slot by clicking [here](https://calendar.google.com/calendar/u/0?cid=a2k0Z2lpbWFjMHA0NmpwbmdyanFxYmtxdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).**
    > Note: Only one educator per 3-week time slot
 
-2. Once you have the google calendar open, click the create button on the top left then select "Event" as shown below:
+**2. Once you have the google calendar open, click the create button on the top left then select "Event" as shown below:**
 
 <img src="images/cal_create.png" align="center" alt=""/>
 
-3. For the Event name, write your frist initial followed by your last name then an underscore followed by GL4U as shown below:
+**3. For the Event name, write your frist initial followed by your last name then an underscore followed by GL4U as shown below:**
 
 <img src="images/cal_name.png" align="center" alt=""/>
 
-4. Click on the box next to the clock icon to bring up the calendar and select your desired start date as shown below:
+**4. Click on the box next to the clock icon to bring up the calendar and select your desired start date as shown below:**
 
 <img src="images/cal_start.png" align="center" alt=""/>
 
-5. Click on the "All day" box, which will change the end time to a date as shown below:
+**5. Click on the "All day" box, which will change the end time to a date as shown below:**
 
 <img src="images/cal_allday.png" align="center" alt=""/>
 
-6. Click on the box to the right of your start date to bring up the calendar and select your desired end date as shown below:
+**6. Click on the box to the right of your start date to bring up the calendar and select your desired end date as shown below:**
 
 <img src="images/cal_end.png" align="center" alt=""/>
 
-7. Click on the box to the right of the calendar icon and select "GL4U" as shown below:
+**7. Click on the box to the right of the calendar icon and select "GL4U" as shown below:**
 
 <img src="images/cal_gl4u.png" align="center" alt=""/>
 
-8. Click the "Save" button on the bottom right to confirm your SMCE time slot as shown below:
+**8. Click the "Save" button on the bottom right to confirm your SMCE time slot as shown below:**
 
 <img src="images/cal_save.png" align="center" alt=""/>
 
-9. If you have to modify your reserved time slot, go to the [GL4U google calendar](https://calendar.google.com/calendar/u/0?cid=a2k0Z2lpbWFjMHA0NmpwbmdyanFxYmtxdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), click on your reserved time slot and select the pencil icon to edit as shown below:
+**9. If you have to modify your reserved time slot, go to the [GL4U google calendar](https://calendar.google.com/calendar/u/0?cid=a2k0Z2lpbWFjMHA0NmpwbmdyanFxYmtxdjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), click on your reserved time slot and select the pencil icon to edit as shown below:**
 
 <img src="images/cal_edit.png" align="center" alt=""/>
 
-10. Send a list of up to 30 students, with the following info for each student, to Amanda (amanda.m.saravia-butler@nasa.gov) at least 2 weeks before the start of your 3-week time slot. 
+**10. Send a list of up to 30 students, with the following info for each student, to Amanda (amanda.m.saravia-butler@nasa.gov) at least 2 weeks before the start of your 3-week time slot.** 
 
    Information needed from each student to set up accounts:
    > Full name  
@@ -59,7 +59,7 @@ The Pilot GL4U: Educator RNAseq Bootcamp was designed to teach college-level edu
    > E-mail address  
    > A US phone number capable of receiving SMS text messages   
 
-11. Amanda will notify you when all user accounts have been set up within 1-week of your 3-week time slot.
+**11. Amanda will notify you when all user accounts have been set up within 1-week of your 3-week time slot.**
 
 ---
 ## Getting Started
@@ -128,21 +128,21 @@ Once accounts have been set up for the educator(s) and all students, follow the 
 
 If you are have having issues with your SMCE server instance and re-setting the kernel (as described in [step 7](#RestartKernel) above) does not resolve the issue, you may have to stop your current server instance and start a new one as described below:
 
-1. To stop your server go to `File` (in the top left corner) then click on `Hub Control Panel` as shown in the image below:
-   > Note: This will open up a new window.
+**1. To stop your server go to `File` (in the top left corner) then click on `Hub Control Panel` as shown in the image below:
+   > Note: This will open up a new window.**
 
 <img src="images/File_HCP.png" align="center" alt=""/>
 
 <br>
 
-2. In the new window that has opened, click on the red button that says `Stop My Server` as shown in the image below: 
+**2. In the new window that has opened, click on the red button that says `Stop My Server` as shown in the image below:** 
    > Note: You may have to click it twice to stop the server instance
 
 <img src="images/stop_server.png" align="center" alt=""/>
 
 <br>
 
-3. To start a new SMCE server instance, click the new blue button that appears and says `Start My Server` as shown in the image below:
+**3. To start a new SMCE server instance, click the new blue button that appears and says `Start My Server` as shown in the image below:**
 
 <img src="images/start_server.png" align="center" alt=""/>
 
@@ -155,7 +155,7 @@ If you are have having issues with your SMCE server instance and re-setting the 
 When you are done working on the SMCE system, it is very important to log out of SMCE by following the instructions below:
 > Note: Don't forget to save your work before logging out. Logging out of SMCE will automatically stop your server instance.
 
-To log out of SMCE, go to `File` (in the top left corner) then click on `Log Out` as shown in the image below: 
+**To log out of SMCE, go to `File` (in the top left corner) then click on `Log Out` as shown in the image below:** 
 
 <img src="images/File_LogOut.png" align="center" alt=""/>
 
