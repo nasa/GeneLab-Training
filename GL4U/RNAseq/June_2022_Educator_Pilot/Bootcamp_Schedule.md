@@ -2,17 +2,17 @@
 
 ## Day 1 Tuesday (5/31/2022):
 
-|Time (PDT)|Activity|Video Recording|
-|:---------|:-------|:--------------|
-|8am – 930am | Welcome / Start Intro to NASA, GeneLab, and PP (VOICES I) lecture | TBA
-|930am – 950am | BREAK | TBA
-|950am – 1020am | Finish Intro to NASA, GeneLab, and PP (VOICES I) lecture | TBA
-|1020am – 11am | Intro to Command Line (lecture)  | TBA
-|11am – Noon | LUNCH | TBA
-|Noon – 1215pm | Logging into the NCCS SMCE system | TBA
-|1215pm – 130pm | Begin Unix Intro JN | TBA
-|130pm – 150pm | BREAK | TBA
-|150pm – 3pm | Unix Intro JN through 2.a.cp | TBA
+|Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
+|:---------|:-------|:--------------------------------------|
+|8am – 930am | <br />Welcome / Intros <br />Lecture: Intro to NASA, Space Biology, and GeneLab | <br />[GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:13:30) <br />(TimeStamp: 00:13:50 – 01:17:00)
+|930am – 950am | BREAK | N/A
+|950am – 1020am | Lecture: Planetary Protection (PP) - VOICES I | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:30 – 00:23:45)
+|1020am – 11am | Lecture: Intro to Command Line | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:24:06 – 01:08:18)
+|11am – Noon | LUNCH | N/A
+|Noon – 1215pm | Logging into the NCCS SMCE system and JupyterHub overview | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:01:01 – 00:32:39)
+|1215pm – 130pm | Begin Unix Intro JN through step 1.b. | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:32:40 – 01:27:14)
+|130pm – 150pm | BREAK | N/A
+|150pm – 3pm | Unix Intro JN through step 2.a.cp | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day1_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:11:18)
 
 ---
 ## Day 2 Wednesday (6/1/2022):
