@@ -34,14 +34,15 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 930am | Finish R Intro JN | TBA
+|8am – 930am | Finish R Intro JN | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day3_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:21:34)
 |930am – 950am | BREAK | N/A
-|950am – 1040am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | TBA
-|1040am – 11am | Begin RNAseq Overview through RTqPCR (lecture) | TBA
+|950am – 955am | R Intro JN - Review final question | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day3_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:03:11)
+|955am – 1040am | Debrief on Intro to NASA, GeneLab, and PP (VOICES I) lecture and Unix and R Intro JNs | N/A
+|1040am – 11am | Begin RNAseq Overview through RTqPCR (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day3_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:03:12 – 00:17:37)
 |11am – Noon | LUNCH | N/A
-|Noon – 130pm | Continue RNAseq Overview through Library QC (lecture) | TBA
+|Noon – 130pm | Continue RNAseq Overview through Library QC (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day3_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:30:12)
 |130pm – 150pm | BREAK | N/A
-|150pm – 3pm | Continue RNAseq Overview through Raw Data (lecture) | TBA
+|150pm – 3pm | Continue RNAseq Overview through Raw Data (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day3_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:07:52)
 
 ---
 ## Day 4 Friday (6/3/2022):
