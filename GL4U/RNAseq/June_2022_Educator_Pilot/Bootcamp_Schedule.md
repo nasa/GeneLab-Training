@@ -81,18 +81,19 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 815am | Questions from yesterday’s RNAseq Overview lecture material | TBA
-|815am – 905am | Fastq-to-Counts JN – through infer expt QC | TBA
-|905am – 930am | RNAseq Overview through RSEM output (lecture) | TBA
+|8am – 815am | Questions from yesterday’s material / Login to SMCE | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:09:20)
+|815am – 905am | Fastq-to-Counts JN – through step 6b. infer expt multiQC | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:09:21 – 00:58:37)
+|905am – 930am | RNAseq Overview through RSEM output (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:58:38 – 01:19:33)
 |930am – 950am | BREAK | N/A
-|950am – 10am | RNAseq Overview through RSEM counts table (lecture) | TBA
-|10am – 11am | Fastq-to-Counts JN – through RSEM counts QC | TBA
+|950am – 10am | RNAseq Overview through RSEM counts table (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:11:23)
+|10am – 11am | Fastq-to-Counts JN – through step 8b. RSEM counts multiQC | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:11:28 – 00:54:51)
 |11am – Noon | LUNCH | N/A
-|Noon – 1220pm | Finish Fastq-to-Counts JN | TBA
-|1220pm – 130pm | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | N/A
+|Noon – 1220pm | Finish Fastq-to-Counts JN | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:19:34)
+|1220pm – 1235pm | Fastq-to-Counts JN Questions | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:19:35 – 00:35:40)
+|1235pm – 130pm | Debrief on RNAseq Overview through counts table (lecture) and Fastq-to-Counts JN | N/A
 |130pm – 150pm | BREAK | N/A
-|150pm – 215pm | Finish RNAseq Overview (lecture) | TBA
-|215pm – 3pm | DGE JN through import DESeqDataSetObject | TBA
+|150pm – 215pm | Finish RNAseq Overview (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:23:04)
+|215pm – 3pm | DGE JN through step 1b. Import the data | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day6_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:23:08 – 01:07:21)
 
 ---
 ## Day 7 Wednesday (6/8/2022):
