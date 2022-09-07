@@ -100,18 +100,18 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 815am | Questions from yesterday | TBA
-|815am – 840am | DGE JN through step 1 (import and format data) | TBA
-|840am – 930am | Stats lecture through end of PCA | TBA
+|8am – 810am | Questions from yesterday | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:08:37)
+|810am – 840am | DGE JN through step 1c. Make dds object | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:08:38 – 00:28:00)
+|840am – 930am | Stats lecture through end of PCA | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:28:30 – 01:21:15)
 |930am – 950am | BREAK | N/A
-|950am – 1035am | Stats lecture through end of DESeq2 | TBA
-|1035am – 11am | DGE JN through raw PCA | TBA
+|950am – 1035am | Stats lecture through end of DESeq2 | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:43:07)
+|1035am – 11am | DGE JN through step 2a. raw PCA | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:44:12 – 01:01:05)
 |11am – Noon | LUNCH | N/A
-|Noon – 130pm | DGE JN through adding annotations  | TBA
+|Noon – 130pm | DGE JN to step 3b. adding annotations  | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:08:44)
 |130pm – 150pm | BREAK | N/A
-|150pm – 215pm | DGE JN through step 3 | TBA
-|215pm – 230pm | Finish Stats lecture | TBA
-|230pm – 3pm | DGE JN through PCA of DEGs (Step 4a) | TBA
+|150pm – 215pm | DGE JN through step 3b. adding annotations | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:22:22)
+|215pm – 230pm | Finish Stats lecture | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:22:43 – 00:38:53)
+|230pm – 3pm | DGE JN through step 4a. PCA of DEGs | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day7_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:39:11 – 00:56:58)
 
 ---
 ## Day 8 Thursday (6/9/2022):
