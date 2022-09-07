@@ -49,13 +49,14 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 930am | Continue RNAseq Overview through trimmed QC (lecture) | TBA
+|8am – 930am | Continue RNAseq Overview through trimmed QC (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day4_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:21:38)
 |930am – 950am | BREAK | N/A
-|950am – 11am | Begin Fastq-to-Counts JN – through raw fastqc job submission | TBA
+|950am – 10am | Questions from lecture material / Login to SMCE | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day4_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:11:23)
+|10am – 11am | Begin Fastq-to-Counts JN – through step 1a. raw fastqc | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day4_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:11:30 – 01:09:15)
 |11am – Noon | LUNCH | N/A
-|Noon – 130pm | Fastq-to-Counts JN – through raw multiQC | TBA
+|Noon – 130pm | Fastq-to-Counts JN – through step 1b. raw multiQC | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day4_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:30:04)
 |130pm – 150pm | BREAK | N/A
-|150pm – 3pm | Fastq-to-Counts JN – through TrimGalore! | TBA
+|150pm – 3pm | Fastq-to-Counts JN – through step 2a. TrimGalore! | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day4_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:11:12)
 
 ---
 ## Day 5 Monday (6/6/2022):
