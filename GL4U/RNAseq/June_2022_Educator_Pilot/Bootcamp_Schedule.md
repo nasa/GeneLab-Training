@@ -118,18 +118,19 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 810am | Questions from yesterday | TBA
-|820am – 910am | Begin PP (VOICES I) / Metagenomics Overview | TBA
+|8am – 805am | Questions from yesterday | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:05:30)
+|805am – 910am | Begin PP (VOICES I) / Metagenomics Overview | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:05:40 – 00:59:29)
 |910am – 930am | BREAK | N/A
-|930am – 950am | Finish PP (VOICES I) / Metagenomics Overview | TBA
-|950am –  1005am | Debrief on PP (VOICES I) / Metagenomics Overview Material | N/A
-|1005am – 11am | DGE JN through Volcano Plot (Step 4c) | TBA
+|930am – 950am | Finish PP (VOICES I) / Metagenomics Overview | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:19:17)
+|950am –  10am | PP (VOICES I) / Metagenomics Overview Questions | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:19:18 – 00:32:31)
+|10am –  1010am | Debrief on PP (VOICES I) / Metagenomics Overview Material | N/A
+|1010am – 11am | DGE JN to step 4c. Volcano Plot | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:32:50 – 01:20:02)
 |11am – Noon | LUNCH | N/A
-|Noon – 1245pm | Finish DGE JN | TBA
-|1245pm – 130pm | Debrief on Stats lecture and DGE JN | TBA
+|Noon – 1245pm | Finish DGE JN | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:35:47)
+|1245pm – 130pm | Debrief on Stats lecture and DGE JN | N/A
 |130pm – 150pm | BREAK | N/A
-|150pm – 230pm | Educator Experiences and Suggestions for Virtual Teaching | TBA
-|230pm – 3pm | Modify Unix and R Intro JNs | TBA
+|150pm – 230pm | Educator Experiences and Suggestions for Virtual Teaching | N/A
+|230pm – 3pm | Modify Unix and R Intro JNs | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day8_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:16:33)
 
 ---
 ## Day 9 Friday (6/10/2022):
