@@ -63,18 +63,18 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 830am | Questions from last week's material | TBA
-|830am – 9am | Fastq-to-Counts JN – through trimmed QC | TBA
-|9am – 930am | RNAseq Overview through splice unaware/aware aligners (lecture) | TBA
+|8am – 820am | Questions from last week's material | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:18:57)
+|820am – 910am | Fastq-to-Counts JN – through step 2c. trimmed QC | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:18:58 – 01:09:51)
+|910am – 930am | RNAseq Overview through splice unaware/aware aligners (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 01:09:54 – 01:25:19)
 |930am – 950am | BREAK | N/A
-|950am – 1040am | RNAseq Overview through alignment QC (lecture) | TBA
-|1040am – 11am | Fastq-to-Counts JN – through STAR alignment | TBA
+|950am – 1040am | RNAseq Overview through alignment QC (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:52:14)
+|1040am – 11am | Fastq-to-Counts JN – to step 4a. STAR alignment | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:52:17 – 01:10:09)
 |11am – Noon | LUNCH | N/A
-|noon – 130pm | Fastq-to-Counts JN – through alignment QC | TBA
+|noon – 130pm | Fastq-to-Counts JN – to step 4b. alignment QC | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 01:18:23)
 |130pm – 150pm | BREAK | N/A
-|150pm – 215pm | Fastq-to-Counts JN – through index aligned reads | TBA
-|215pm – 235pm | RNAseq Overview through infer expt QC (lecture) | TBA
-|235pm – 3pm | Fastq-to-Counts JN – through infer expt | TBA
+|150pm – 215pm | Fastq-to-Counts JN – through step 4c. index aligned reads | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:20:07)
+|215pm – 240pm | RNAseq Overview through infer expt QC (lecture) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:20:14 – 00:49:03)
+|240pm – 3pm | Fastq-to-Counts JN – through step 6a. infer expt | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day5_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:49:24 – 01:03:13)
 
 ---
 ## Day 6 Tuesday (6/7/2022):
