@@ -137,18 +137,18 @@
 
 |Time (PDT)|Activity|Video Recording (TimeStamp in hh:mm:ss)|
 |:---------|:-------|:--------------------------------------|
-|8am – 815am | Questions from yesterday | TBA
-|815am –  9am | Modify Fastq-to-Counts JN | TBA
-|9am – 930am | Modify DGE JN | TBA
+|8am – 805am | Questions from yesterday | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:04:44)
+|805am –  9am | Modify Fastq-to-Counts JN | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:04:45 – 00:05:57)
+|9am – 930am | Modify DGE JN | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_1of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:05:58 – 00:11:39)
 |930am – 950am | BREAK | N/A
-|950am – 1010am | Modify DGE JN | TBA
-|1010am – 1030am | Sign up for NCCS SMCE resources overview | TBA
-|1030am – 11am | Implement GL4U RNAseq Bootcamp Material at home institution overview | TBA
+|950am – 1010am | Finish modifying DGE JN | N/A
+|1010am – 1035am | Save modified JNs to use at home institution (**for Educators ONLY**) | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:00 – 00:23:15)
+|1035am – 11am | GitHub overview / How to implement GL4U RNAseq Bootcamp material at home institution overview | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_2of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:23:18 – 00:51:53)
 |11am – Noon | LUNCH | N/A
-|Noon – 1240pm | Take the post-bootcamp survey | TBA
-|1240pm – 110pm | Install Conda, Jupyter, and R Locally | TBA
+|Noon – 1240pm | Take the post-bootcamp survey | N/A
+|1240pm – 110pm | Extra: Install Linux on Windows OS | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_3of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:04:09 – 00:33:32)
 |110pm – 130pm | BREAK | N/A
-|130pm – 150pm | Discuss MatLab, Python, and other coding languages | TBA
-|150pm – 210pm | Finish installing Conda, Jupyter, and R Locally | TBA
-|210pm – 245pm | Running GeneLab DGE Script Locally | TBA
-|245pm – 3pm | Wrap up / Final questions and comments / Chiefe musical performance | TBA
+|130pm – 135pm | Extra: Finish installing Linux on Windows OS | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:00:0 – 00:02:27)
+|135pm – 2pm | Extra: Discuss MatLab, Python, and other coding languages | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:02:28 – 00:28:13)
+|2pm – 245pm | Extra: Install Git, Conda, Jupyter, and R Locally | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 00:28:15 – 01:13:10)
+|245pm – 3pm | Chiefe musical performance / Wrap up and final questions and comments | [GL4U_RNAseq_Edu_Bootcamp_06-2022_Day9_4of4.mp4](NCCS_SMCE_Bootcamp_Setup/images/temp.txt) <br />(TimeStamp: 01:13:42 – 01:33:31)
