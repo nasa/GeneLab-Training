@@ -3,6 +3,8 @@
 The JN in this directory contains instructions and commands for performing DGE analysis on any RNAseq [GeneLab Dataset (GLDS)](https://osdr.nasa.gov/bio/repo/) starting with RSEM raw gene counts, and subsequently generate data visualizations. The tools and commands used are consistent with [GeneLab's RNAseq standard processing pipeline, version F](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-F.md). The modified GL4U RNAseq DGE JN is set up to run on the [NASA Center for Climate Simulation (NCCS)](https://www.nccs.nasa.gov/) [Science Managed Could Environment (SMCE)](https://www.nccs.nasa.gov/systems/SMCE) system. An example of the completed modified RNAseq DGE JN in HTML format can be found in the [Example_RNAseq_DGE_JN_anyGLDS](Example_RNAseq_DGE_JN_anyGLDS) subdirectory.
 > Note: Due to the large file size of the JN, it may take a while to load when viewing through the web portal. To avoid issues loading the JN file, you can download the file to your local system by cloning [this repository](https://github.com/asaravia-butler/GeneLab_Training) using [these GitHub instructions](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository#cloning-a-repository).
 
+<br>
+
 ---
 
 ## Table of contents  
@@ -14,6 +16,7 @@ The JN in this directory contains instructions and commands for performing DGE a
 - [Log out of SMCE](#log-out-of-smce)
 - [Software used](#the-following-software-is-used-in-this-jn)
 
+<br>
 
 ---
 ## Jupyter Notebook Files
@@ -21,6 +24,8 @@ The JN in this directory contains instructions and commands for performing DGE a
   - Modified version of the RNAseq DGE JN used during the Educator Pilot bootcamp that allows a user to perform DGE analysis on any RNAseq [GeneLab Dataset (GLDS)](https://osdr.nasa.gov/bio/repo/) starting with RSEM raw gene counts.
 - [Script to Download GLDS Files](download_file_urls.py):
   - This script is called in the modified DGE JN to download the required metadata and RSEM raw gene counts files for the select RNAseq GLDS from the [Open Science Data Repository (OSDR)](https://osdr.nasa.gov/bio/repo/).
+
+<br>
 
 ---
 ## Getting Started
@@ -105,6 +110,8 @@ If you are have having issues with your SMCE server instance and re-setting the 
 
 <img src="images/troubleshoot_RAM.png" align="center" alt=""/>
 
+<br>
+
 ---
 
 ## Export The Completed JN as HTML
@@ -132,7 +139,7 @@ When you are done working on the SMCE system, it is very important to log out of
 
 ---
 
-## The Following Software Is Used In This Bootcamp:
+## The Following Software Is Used In This JN:
 
 |Program|Version|Relevant Links|
 |:------|:------:|:-------------|
