@@ -66,7 +66,7 @@ Once your SMCE account is set up, follow the instructions below to get started:
 <br>
 
 <a id=RestartKernel></a>
-**7. You are now ready to run the hands-on portion of the bootcamp. A few things to note about the modified DGE JN to make sure everything runs smoothly:**  
+**7. You are now ready to run the modified RNAseq DGE JN. A few things to note about the modified DGE JN to make sure everything runs smoothly:**  
   * When running steps 0 - 1 of the "RNAseq_DGE_JN_anyGLDS_02-2023.ipynb" JN, make sure the kernel running, as indicated in the top right corner of the JN window, is "Bash [conda env:gl4u-r-2023]". If it is not, click on the kernel shown, and select "Bash [conda env:gl4u-r-2023]" from the drop-down menu as indicated in the image below.
 
 <img src="images/bash_gl4u_2023.png" align="center" alt=""/>
