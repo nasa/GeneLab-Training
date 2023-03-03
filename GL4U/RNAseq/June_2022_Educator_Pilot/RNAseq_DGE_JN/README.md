@@ -4,6 +4,8 @@ The JN in this directory contains instructions and commands for performing DGE a
 > Note: Due to the large file size of the JN, it may take a while to load when viewing through the web portal. To avoid issues loading the JN file, you can download the file to your local system by cloning [this repository](https://github.com/asaravia-butler/GeneLab_Training) using [these GitHub instructions](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository#cloning-a-repository).
 
 ## Jupyter Notebooks
-- [RNAseq DGE JN](RNAseq_DGE_JN_06-2022.ipynb): Original JN used during the GL4U RNAseq Educator Pilot bootcamp.
-- [RNAseq DGE JN for Any GLDS](RNAseq_DGE_JN_anyGLDS): Modified version of the RNAseq DGE JN used during the Educator Pilot bootcamp that allows a user to perform DGE analysis on any RNAseq [GeneLab Dataset (GLDS)](https://osdr.nasa.gov/bio/repo/) starting with RSEM raw gene counts.
-  - The tools and commands used in the modified RNAseq DGE JN are consistent with the [GeneLab's RNAseq standard processing pipeline, version F](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-F.md).
+- [RNAseq DGE JN](RNAseq_DGE_JN_06-2022.ipynb): 
+  - Original JN used during the GL4U RNAseq Educator Pilot bootcamp.
+- [RNAseq DGE JN for Any GLDS](RNAseq_DGE_JN_anyGLDS): 
+  - Modified version of the RNAseq DGE JN used during the Educator Pilot bootcamp that allows a user to perform DGE analysis on any RNAseq [GeneLab Dataset (GLDS)](https://osdr.nasa.gov/bio/repo/) starting with RSEM raw gene counts.
+    - The tools and commands used in the modified RNAseq DGE JN are consistent with the [GeneLab's RNAseq standard processing pipeline, version F](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-F.md).
