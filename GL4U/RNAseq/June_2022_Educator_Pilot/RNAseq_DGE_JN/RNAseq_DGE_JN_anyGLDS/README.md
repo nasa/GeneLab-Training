@@ -9,7 +9,7 @@ The JN in this directory contains instructions and commands for performing DGE a
 
 ## Table of contents  
 
-- [Files for running the modified DGE JN](#jupyter-notebook-files)
+- [Demo and Files for running the modified DGE JN](#jupyter-notebook-files-and-smce-demo)
 - [Login to SMCE and set up the modified DGE JN files](#getting-started)
 - [Troubleshooting SMCE server issues](#troubleshooting-smce-server-issues)
 - [Export the completed DGE JN](#export-the-completed-jn-as-html)
@@ -19,11 +19,13 @@ The JN in this directory contains instructions and commands for performing DGE a
 <br>
 
 ---
-## Jupyter Notebook Files
+## Jupyter Notebook Files and SMCE Demo
 - [RNAseq DGE JN for Any GLDS](RNAseq_DGE_JN_anyGLDS_02-2023.ipynb): 
   - Modified version of the RNAseq DGE JN used during the Educator Pilot bootcamp that allows a user to perform DGE analysis on any RNAseq [GeneLab Dataset (GLDS)](https://osdr.nasa.gov/bio/repo/) starting with RSEM raw gene counts.
 - [Script to Download GLDS Files](download_file_urls.py):
   - This script is called in the modified DGE JN to download the required metadata and RSEM raw gene counts files for the select RNAseq GLDS from the [Open Science Data Repository (OSDR)](https://osdr.nasa.gov/bio/repo/).
+- [SMCE Demo](https://youtu.be/BKico-k880o)
+  - A demo for how to run the full `RNAseq_DGE_JN_anyGLDS_02-2023` JN on the [SMCE](https://www.nccs.nasa.gov/systems/SMCE) system, hosted on the NASA GeneLab YouTube Channel.
 
 <br>
 
