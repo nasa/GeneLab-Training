@@ -1,4 +1,4 @@
-<img src="genelabfinal.jpg" align="left" alt="" width="200" height="200"/>
+<img src="images/GL4HS_logo.jpg" align="left" alt="" width="200" height="200"/>
 <br/>
 
 # GeneLab for High Schools: Growing the Next Generation of Scientists
