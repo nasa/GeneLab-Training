@@ -19,3 +19,5 @@ During the training program, students work closely with the GL4HS team to learn 
 - students will also network and form connections with guest lecturers including university professors and industry experts
 - GL4HS provides an opportunity for students to develop their educational and scientific skills including leadership, team-work, data analysis, problem solving, and independent learning.
 
+Please visit GeneLab's Educator Resources page here: https://genelab.nasa.gov/overview-educator-resources
+
