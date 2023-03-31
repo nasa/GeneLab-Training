@@ -9,6 +9,8 @@
 GeneLab for High Schools (GL4HS) is a four-week intensive training program for rising high school juniors and seniors sponsored by NASA Ames Research Center (Mountain View, California). GL4HS provides students an opportunity to immerse themselves in space life sciences with a specific focus on omics-based bioinformatics research, the science of collecting and analyzing complex biological data such as genetic codes and computational biology.
 > For more information, please visit [GeneLab's Educator Resources page](https://genelab.nasa.gov/overview-educator-resources).
 
+<br>
+
 **During the training program, students work closely with the GL4HS team to learn and/or obtain training in:**
 
 - NASA space biology research
