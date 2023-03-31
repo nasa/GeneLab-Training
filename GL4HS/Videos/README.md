@@ -1,5 +1,7 @@
 # GL4HS Bioinformatics Manual Walkthrough & Supporting Videos
-> The videos linked below walk the user through introductory transcriptomics analysis using the [GeneLab Galaxy Analysis Platform](https://galaxy.genelab.nasa.gov/) to process the [OSD/GLDS-104](https://osdr.nasa.gov/bio/repo/data/studies/OSD-104) dataset used in the GeneLab for High Schools (GL4HS) Bioinformatics Manual. Additional videos are provided to give support for high school teachers intending to use the videos, general information about the workflow, and tips for using the platform.
+> **The videos linked below walk the user through introductory transcriptomics analysis using the [GeneLab Galaxy Analysis Platform](https://galaxy.genelab.nasa.gov/) to process the [OSD/GLDS-104](https://osdr.nasa.gov/bio/repo/data/studies/OSD-104) dataset used in the GeneLab for High Schools (GL4HS) Bioinformatics Manual. Additional videos are provided to give support for high school teachers intending to use the videos, general information about the workflow, and tips for using the platform.**
+
+<br>
 
 **All GL4HS videos can be accessed via [this YouTube playlist](https://www.youtube.com/playlist?list=PLMrYR62DKn6FZtNTgCbJb85ZupKbS8fFk), or individual videos can be played by clicking the links below:**
 
