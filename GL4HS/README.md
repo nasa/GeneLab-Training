@@ -29,16 +29,20 @@ GeneLab for High Schools (GL4HS) is a four-week intensive training program for r
 
 * [**General Resources**](General_Resources)
 
-  - Insert summary of what's in General_Resources here
+  - Instructional material for how to process a RNA sequencing (RNA-seq) dataset using the GL4HS-prepared training sets.
 
 
 * [**Videos**](Videos)
 
-  - Insert summary of what's in the Videos here
+  - Links to videos that supplement the GeneLab for High Schools Bioinformatics Manual by providing:
+    - A walkthrough of the exercises.
+    - Support for teachers who would like to use the analysis platform to introduce students to science research.
+    - General information about the workflow. 
+    - Tips for using the platform.
   
 
 * [**Teacher-Created Materials**](Teacher_Created_Materials)
 
-  - Insert summary of what's in Teacher_Created_Materials here
+  - Training content created by former GL4HS teacher interns.
   
 
