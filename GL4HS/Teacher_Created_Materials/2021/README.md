@@ -2,12 +2,12 @@
 
 * [**Bliss2021**](Bliss2021)
 
-  - Training modules developed by <name of teacher> from <name of HS>, HS city, HS state.
+  - Training modules developed by Jennifer Callison-Bliss from Wheeler High School, Marietta, GA.
 
 * [**Boileau2021**](Boileau2021)
 
-  - Training modules developed by <name of teacher> from <name of HS>, HS city, HS state.
+  - Training modules developed by Catherine (Boileau) Peterson from Bloomington High School South, Bloomington, IN
 
 * [**Salazar2021**](Salazar2021)
 
-  - Training modules developed by <name of teacher> from <name of HS>, HS city, HS state.
+  - Training modules developed by <name of teacher> from iMater Preparatory Academy, Hialeah, FL.
