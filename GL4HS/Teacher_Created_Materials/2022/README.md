@@ -3,7 +3,7 @@
 
 * [**Bailey2022**](Bailey2022)
 
-   - Training modules developed by Elisheva Baialey from University Preparatory Academy, San Jose, CA.
+   - Training modules developed by Elisheva Bailey from University Preparatory Academy, San Jose, CA.
    
 * [**Dejka2022**](Dejka2022)
 
