@@ -6,4 +6,5 @@ GL4U is designed by [NASA GeneLab](https://genelab.nasa.gov/) in collaboration w
 ---
 ## Assay Types
 Click on an assay type below for training material:
-- [RNAseq](RNAseq)  
+- [RNA Sequencing](RNAseq)
+- [Amplicon Sequencing](AmpSeq)  
