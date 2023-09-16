@@ -5,4 +5,4 @@ This directory holds the training materials used for each AmpSeq bootcamp conduc
 
 ---
 ## Past and Future RNAseq Bootcamps
-- [July 2023 Student Pilot](../../../wiki/GL4U:-Amplicon-Sequencing-Bootcamp-2023-Pilot-at-CSULA)  
+- [July 2023 Student Pilot](../../../../wiki/GL4U:-Amplicon-Sequencing-Bootcamp-2023-Pilot-at-CSULA)  
