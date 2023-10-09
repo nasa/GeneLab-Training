@@ -1,3 +1,6 @@
+<img src="images/GL4U_logo.png" align="left" alt="" width="200" height="200"/>
+<br/>
+
 # GeneLab for Colleges and Universities (GL4U)
 
 ## About
