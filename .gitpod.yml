@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: quay.io/nasa_genelab/gl4u:gl4u_intro_2024
 
 tasks:
   - init: echo "Starting GL4U Intro Gitpod"
