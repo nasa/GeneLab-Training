@@ -1,0 +1,520 @@
+STAR version=2.7.11b
+STAR compilation time,server,dir=2024-07-03T14:39:20+0000 :/opt/conda/conda-bld/star_1720017372352/work/source
+##### Command Line:
+/miniconda38_admin/envs/GL4U_RNAseq_2024_raw-to-counts/bin/STAR-avx2 --twopassMode Basic --limitBAMsortRAM 55000000000 --genomeDir /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100 --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 18 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /02-STAR_Alignment/FLT_M23/FLT_M23_ --readFilesIn /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 /02-STAR_Alignment/FLT_M23/FLT_M23_
+###### All USER parameters from Command Line:
+twopassMode                   Basic     ~RE-DEFINED
+limitBAMsortRAM               55000000000     ~RE-DEFINED
+genomeDir                     /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100     ~RE-DEFINED
+outSAMunmapped                Within        ~RE-DEFINED
+outFilterType                 BySJout     ~RE-DEFINED
+outSAMattributes              NH   HI   AS   NM   MD   MC        ~RE-DEFINED
+outFilterMultimapNmax         20     ~RE-DEFINED
+outFilterMismatchNmax         999     ~RE-DEFINED
+outFilterMismatchNoverReadLmax0.04     ~RE-DEFINED
+alignIntronMin                20     ~RE-DEFINED
+alignIntronMax                1000000     ~RE-DEFINED
+alignMatesGapMax              1000000     ~RE-DEFINED
+alignSJoverhangMin            8     ~RE-DEFINED
+alignSJDBoverhangMin          1     ~RE-DEFINED
+sjdbScore                     1     ~RE-DEFINED
+readFilesCommand              zcat        ~RE-DEFINED
+runThreadN                    18     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+quantMode                     TranscriptomeSAM   GeneCounts        ~RE-DEFINED
+outSAMheaderHD                @HD   VN:1.4   SO:coordinate        ~RE-DEFINED
+outFileNamePrefix             /02-STAR_Alignment/FLT_M23/FLT_M23_     ~RE-DEFINED
+readFilesIn                   /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz   /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        18
+genomeDir                         /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100
+readFilesIn                       /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz   /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz   
+readFilesCommand                  zcat   
+limitBAMsortRAM                   55000000000
+outFileNamePrefix                 /02-STAR_Alignment/FLT_M23/FLT_M23_
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMattributes                  NH   HI   AS   NM   MD   MC   
+outSAMunmapped                    Within   
+outSAMheaderHD                    @HD   VN:1.4   SO:coordinate   
+outFilterType                     BySJout
+outFilterMultimapNmax             20
+outFilterMismatchNmax             999
+outFilterMismatchNoverReadLmax    0.04
+alignIntronMin                    20
+alignIntronMax                    1000000
+alignMatesGapMax                  1000000
+alignSJoverhangMin                8
+alignSJDBoverhangMin              1
+sjdbScore                         1
+quantMode                         TranscriptomeSAM   GeneCounts   
+twopassMode                       Basic
+
+-------------------------------
+##### Final effective command line:
+/miniconda38_admin/envs/GL4U_RNAseq_2024_raw-to-counts/bin/STAR-avx2   --runThreadN 18   --genomeDir /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100   --readFilesIn /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz   /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz      --readFilesCommand zcat      --limitBAMsortRAM 55000000000   --outFileNamePrefix /02-STAR_Alignment/FLT_M23/FLT_M23_   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   AS   NM   MD   MC      --outSAMunmapped Within      --outSAMheaderHD @HD   VN:1.4   SO:coordinate      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverReadLmax 0.04   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1   --sjdbScore 1   --quantMode TranscriptomeSAM   GeneCounts      --twopassMode Basic
+----------------------------------------
+
+Number of fastq files for each mate = 1
+
+   Input read files for mate 1 :
+-rw------- 1  dp 6913327 Sep 17 18:35 /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "/02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "/01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz"
+
+
+   Input read files for mate 2 :
+-rw------- 1  dp 7425577 Sep 17 18:35 /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "/02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp/tmp.fifo.read2"
+echo FILE 0
+zcat      "/01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz"
+
+ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
+Finished loading and checking parameters
+Reading genome generation parameters:
+### /miniconda38_admin/envs/GL4U_RNAseq_2024_raw-to-counts/bin/STAR-avx2   --runMode genomeGenerate      --runThreadN 16   --genomeDir /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100   --genomeFastaFiles /global/data/Data_Processing/Genomes/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly.fa      --limitGenomeGenerateRAM 70000000000   --sjdbGTFfile /global/data/Data_Processing/Genomes/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.112.gtf   --sjdbOverhang 99
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              /global/data/Data_Processing/Genomes/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly.fa        ~RE-DEFINED
+genomeSAindexNbases           14     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  99     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   /global/data/Data_Processing/Genomes/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.112.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               2795977271   22373614209        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 61
+1	1	195154279	0
+2	10	130530862	195297280
+3	11	121973369	325844992
+4	12	120092757	448004096
+5	13	120883175	568328192
+6	14	125139656	689438720
+7	15	104073951	814743552
+8	16	98008968	919076864
+9	17	95294699	1017118720
+10	18	90720763	1112539136
+11	19	61420004	1203503104
+12	2	181755017	1265106944
+13	3	159745316	1447034880
+14	4	156860686	1606942720
+15	5	151758149	1763966976
+16	6	149588044	1915748352
+17	7	144995196	2065432576
+18	8	130127694	2210660352
+19	9	124359700	2340945920
+20	MT	16299	2465464320
+21	X	169476592	2465726464
+22	Y	91455967	2635333632
+23	JH584299.1	953012	2726821888
+24	GL456233.2	559103	2727870464
+25	JH584301.1	259875	2728656896
+26	GL456211.1	241735	2728919040
+27	GL456221.1	206961	2729181184
+28	JH584297.1	205776	2729443328
+29	JH584296.1	199368	2729705472
+30	GL456354.1	195993	2729967616
+31	JH584298.1	184189	2730229760
+32	JH584300.1	182347	2730491904
+33	GL456219.1	175968	2730754048
+34	GL456210.1	169725	2731016192
+35	JH584303.1	158099	2731278336
+36	JH584302.1	155838	2731540480
+37	GL456212.1	153618	2731802624
+38	JH584304.1	114452	2732064768
+39	GL456379.1	72385	2732326912
+40	GL456366.1	47073	2732589056
+41	GL456367.1	42057	2732851200
+42	GL456239.1	40056	2733113344
+43	GL456383.1	38659	2733375488
+44	GL456385.1	35240	2733637632
+45	GL456360.1	31704	2733899776
+46	GL456378.1	31602	2734161920
+47	MU069435.1	31129	2734424064
+48	GL456389.1	28772	2734686208
+49	GL456372.1	28664	2734948352
+50	GL456370.1	26764	2735210496
+51	GL456381.1	25871	2735472640
+52	GL456387.1	24685	2735734784
+53	GL456390.1	24668	2735996928
+54	GL456394.1	24323	2736259072
+55	GL456392.1	23629	2736521216
+56	GL456382.1	23158	2736783360
+57	GL456359.1	22974	2737045504
+58	GL456396.1	21240	2737307648
+59	GL456368.1	20208	2737569792
+60	MU069434.1	8412	2737831936
+61	JH584295.1	1976	2738094080
+--sjdbOverhang = 99 taken from the generated genome
+Started loading the genome: Tue Sep 17 18:36:53 2024
+
+Genome: size given as a parameter = 2795977271
+SA: size given as a parameter = 22373614209
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=14  nSAi=357913940
+nGenome=2795977271;  nSAbyte=22373614209
+GstrandBit=32   SA number of indices=5423906474
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 2795977271 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 2795977271 bytes
+SA file size: 22373614209 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 22373614209 bytes
+Loading SAindex ... done: 1565873619 bytes
+Finished loading the genome: Tue Sep 17 18:42:43 2024
+
+Processing splice junctions database sjdbN=289553,   pGe.sjdbOverhang=99 
+To accommodate alignIntronMax=1000000 redefined winBinNbits=18
+To accommodate alignIntronMax=1000000 and alignMatesGapMax=1000000, redefined winFlankNbins=4 and winAnchorDistNbins=8
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread0 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread1 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread2 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread2 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread3 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread3 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread4 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread4 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread5 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread5 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread6 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread6 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread7 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread7 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread8 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread8 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread9 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread9 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread10 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread10 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread11 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread11 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread12 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread12 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread13 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread13 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread14 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread14 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread15 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread15 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread16 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread16 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread17 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread17 ... ok
+Created thread # 1
+Created thread # 2
+Starting to map file # 0
+mate 1:   /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz
+mate 2:   /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+Created thread # 3
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+Created thread # 16
+Created thread # 17
+Thread #2 end of input stream, nextChar=-1
+Completed: thread #3
+Completed: thread #5
+Completed: thread #6
+Completed: thread #4
+Completed: thread #8
+Completed: thread #10
+Completed: thread #9
+Completed: thread #12
+Completed: thread #16
+Completed: thread #13
+Completed: thread #17
+Completed: thread #15
+Completed: thread #7
+Completed: thread #0
+Completed: thread #14
+Completed: thread #11
+Completed: thread #2
+Completed: thread #1
+Joined thread # 1
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Joined thread # 6
+Joined thread # 7
+Joined thread # 8
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Joined thread # 14
+Joined thread # 15
+Joined thread # 16
+Joined thread # 17
+Sep 17 18:42:51   Loaded database junctions from the generated genome /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100//sjdbList.out.tab: 289553 total junctions
+
+Sep 17 18:42:51   Loaded database junctions from the 1st pass file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARpass1//SJ.out.tab: 306848 total junctions
+
+WARNING: long repeat for junction # 65640 : 13 36192501 36373186; left shift = 255; right shift = 29
+WARNING: long repeat for junction # 73347 : 13 119631671 120070727; left shift = 36; right shift = 255
+WARNING: long repeat for junction # 90015 : 15 75976552 75988902; left shift = 0; right shift = 255
+WARNING: long repeat for junction # 200323 : 5 112922393 112922883; left shift = 255; right shift = 69
+WARNING: long repeat for junction # 202724 : 5 123328298 123329023; left shift = 255; right shift = 19
+WARNING: long repeat for junction # 211971 : 6 48731569 48732130; left shift = 81; right shift = 255
+WARNING: long repeat for junction # 244196 : 7 141361933 141364041; left shift = 255; right shift = 255
+Sep 17 18:42:52   Finished preparing junctions
+Sep 17 18:42:52 ..... inserting junctions into the genome indices
+Sep 17 18:42:53   Finished SA search: number of new junctions=272, old junctions=289553
+Sep 17 18:42:53   Finished sorting SA indicesL nInd=107712
+Genome size with junctions=2796031399  2738356224   57675175
+GstrandBit1=32   GstrandBit=32
+Sep 17 18:43:56   Finished inserting junction indices
+Sep 17 18:44:00   Finished SAi
+Sep 17 18:44:00 ..... finished inserting junctions into genome
+
+   Input read files for mate 1 :
+-rw------- 1  dp 6913327 Sep 17 18:35 /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "/02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "/01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz"
+
+
+   Input read files for mate 2 :
+-rw------- 1  dp 7425577 Sep 17 18:35 /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+
+   readsCommandsFile:
+exec > "/02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp/tmp.fifo.read2"
+echo FILE 0
+zcat      "/01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz"
+
+Loaded transcript database, nTr=149194
+Loaded exon database, nEx=864295
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread0 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread1 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread2 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread2 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread3 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread3 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread4 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread4 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread5 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread5 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread6 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread6 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread7 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread7 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread8 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread8 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread9 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread9 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread10 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread10 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread11 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread11 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread12 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread12 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread13 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread13 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread14 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread14 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread15 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread15 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread16 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread16 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate1.thread17 ... ok
+Opening the file: /02-STAR_Alignment/FLT_M23/FLT_M23__STARtmp//FilterBySJoutFiles.mate2.thread17 ... ok
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Starting to map file # 0
+mate 1:   /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz
+mate 2:   /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+Created thread # 16
+Created thread # 17
+Thread #1 end of input stream, nextChar=-1
+Completed: thread #3
+Completed: thread #5
+Completed: thread #6
+Completed: thread #7
+Completed: thread #9
+Completed: thread #10
+Completed: thread #8
+Completed: thread #4
+Completed: thread #13
+Completed: thread #14
+Completed: thread #16
+Completed: thread #15
+Completed: thread #0
+Completed: thread #17
+Completed: thread #12
+Completed: thread #11
+Completed: thread #1
+Joined thread # 1
+Completed: thread #2
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Joined thread # 6
+Joined thread # 7
+Joined thread # 8
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Joined thread # 14
+Joined thread # 15
+Joined thread # 16
+Joined thread # 17
+Completed stage 1 mapping of outFilterBySJout mapping
+Detected 3 novel junctions that passed filtering, will proceed to filter reads that contained unannotated junctions
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+Created thread # 16
+Created thread # 17
+Completed: thread #4
+Completed: thread #3
+Completed: thread #6
+Completed: thread #5
+Completed: thread #7
+Completed: thread #8
+Completed: thread #9
+Completed: thread #10
+Completed: thread #13
+Completed: thread #11
+Completed: thread #12
+Completed: thread #15
+Completed: thread #0
+Completed: thread #14
+Completed: thread #16
+Completed: thread #17
+BAM sorting: 85367 mapped reads
+BAM sorting bins genomic start loci:
+1	0	24653074
+2	0	24654796
+3	0	75340159
+4	0	185160075
+5	1	90954728
+6	2	48741912
+7	2	67080045
+8	2	67112190
+9	2	100211517
+10	3	69206125
+11	3	69408036
+12	3	111676483
+13	4	99224047
+14	5	55222522
+15	6	76059329
+16	7	10961912
+17	8	29845705
+18	8	71352577
+19	10	5851867
+20	11	7081061
+21	11	52110171
+22	11	76540117
+23	11	76566489
+24	11	76586198
+25	11	76618968
+26	11	76708789
+27	11	76775471
+28	11	156705306
+29	12	89993812
+30	13	33019556
+31	13	116389900
+32	13	147967404
+33	14	114303741
+34	14	142891350
+35	15	87822481
+36	16	19153462
+37	16	52405428
+38	16	126051875
+39	16	142065045
+40	17	86673819
+41	17	124620065
+42	18	66943278
+43	18	118396040
+44	19	5765
+45	19	6685
+46	19	8343
+47	19	10936
+48	19	15127
+Completed: thread #1
+Joined thread # 1
+Completed: thread #2
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Joined thread # 6
+Joined thread # 7
+Joined thread # 8
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Joined thread # 14
+Joined thread # 15
+Joined thread # 16
+Joined thread # 17
+Sep 17 18:44:13 ..... finished mapping
+RAM after mapping:
+VmPeak:	36209628 kB; VmSize:	36006216 kB; VmHWM:	32785644 kB; VmRSS:	32736548 kB; 
+RAM after freeing genome index memory:
+VmPeak:	36209628 kB; VmSize:	 8099748 kB; VmHWM:	32785644 kB; VmRSS:	 5024364 kB; 
+Sep 17 18:44:15 ..... started sorting BAM
+Max memory needed for sorting = 1344625
+ALL DONE!

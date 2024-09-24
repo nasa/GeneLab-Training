@@ -1,18 +1,12 @@
-image:
-  file: .gitpod.Dockerfile
+image: torresalexis/gl4u_rnaseq_2024:1.0.0
 
 tasks:
-  - init: echo "Starting GL4U Intro Gitpod"
-    command: |
+  - init: |
+      echo "Starting GL4U RNAseq Gitpod"
       source $HOME/miniconda3/etc/profile.d/conda.sh
-      conda activate GL4U_Intro_JNs_2024
+    command: |
+      conda activate gl4u_rnaseq_2024
       jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'
 
 ports:
   - port: 8888
-
-github:
-  prebuilds:
-    master: true
-    branches: true
-    pullRequests: true

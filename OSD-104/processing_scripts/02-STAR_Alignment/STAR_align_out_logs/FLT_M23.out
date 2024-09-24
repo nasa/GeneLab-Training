@@ -1,0 +1,11 @@
+	/miniconda38_admin/envs/GL4U_RNAseq_2024_raw-to-counts/bin/STAR-avx2 --twopassMode Basic --limitBAMsortRAM 55000000000 --genomeDir /global/data/Data_Processing/RNAseq_Datasets/STAR_Indices/ensembl_release112/Mus_musculus/Mus_musculus.GRCm39.dna.primary_assembly_RL-100 --outSAMunmapped Within --outFilterType BySJout --outSAMattributes NH HI AS NM MD MC --outFilterMultimapNmax 20 --outFilterMismatchNmax 999 --outFilterMismatchNoverReadLmax 0.04 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --sjdbScore 1 --readFilesCommand zcat --runThreadN 18 --outSAMtype BAM SortedByCoordinate --quantMode TranscriptomeSAM GeneCounts --outSAMheaderHD @HD VN:1.4 SO:coordinate --outFileNamePrefix /02-STAR_Alignment/FLT_M23/FLT_M23_ --readFilesIn /01-TG_Preproc/Fastq/FLT_M23_R1_trimmed.fastq.gz /01-TG_Preproc/Fastq/FLT_M23_R2_trimmed.fastq.gz
+	STAR version: 2.7.11b   compiled: 2024-07-03T14:39:20+0000 :/opt/conda/conda-bld/star_1720017372352/work/source
+Sep 17 18:36:53 ..... started STAR run
+Sep 17 18:36:53 ..... loading genome
+Sep 17 18:42:43 ..... started 1st pass mapping
+Sep 17 18:42:51 ..... finished 1st pass mapping
+Sep 17 18:42:52 ..... inserting junctions into the genome indices
+Sep 17 18:44:01 ..... started mapping
+Sep 17 18:44:13 ..... finished mapping
+Sep 17 18:44:15 ..... started sorting BAM
+Sep 17 18:44:15 ..... finished successfully
