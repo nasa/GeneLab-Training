@@ -6,7 +6,7 @@ tasks:
       source $HOME/miniconda3/etc/profile.d/conda.sh
     command: |
       conda activate gl4u_rnaseq_2024
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.notebook_starts_kernel=False
 
 ports:
   - port: 8888
