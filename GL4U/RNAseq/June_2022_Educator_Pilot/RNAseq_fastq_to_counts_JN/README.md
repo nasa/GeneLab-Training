@@ -1,7 +1,0 @@
-# Process RNA Sequence (RNAseq) Data Through Counts Using a Jupyter Notebook (JN)
-
-The JN in this directory contains instructions and commands for processing raw RNA sequence files from [GLDS-104](https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-104/) spaceflight and ground control samples using the [GeneLab's RNAseq standard processing pipeline, version D](https://github.com/nasa/GeneLab_Data_Processing/blob/master/RNAseq/Pipeline_GL-DPPD-7101_Versions/GL-DPPD-7101-D.md) through generation of a raw counts matrix. The pilot GL4U: RNAseq educator bootcamp fastq to counts JN was run on the [NASA Center for Climate Simulation (NCCS)](https://www.nccs.nasa.gov/) [Science Managed Could Environment (SMCE)](https://www.nccs.nasa.gov/systems/SMCE) system. A completed RNAseq fastq to counts JN in HTML format can be found in the [Example_RNAseq_fastq_to_counts_JN](Example_RNAseq_fastq_to_counts_JN) subdirectory.
-> Note: Due to the large file size of the JN, it may take a while to load when viewing through the web portal. To avoid issues loading the JN file, you can download the file to your local system by cloning [this repository](https://github.com/asaravia-butler/GeneLab_Training) using [these GitHub instructions](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository#cloning-a-repository).
-
-## Jupyter Notebook
-- [RNAseq fastq to counts JN](RNAseq_fastq_to_counts_JN_06-2022.ipynb)

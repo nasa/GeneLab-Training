@@ -1,0 +1,18 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: echo "Starting GL4U Intro Gitpod"
+    command: |
+      source $HOME/miniconda3/etc/profile.d/conda.sh
+      conda activate GL4U_Intro_JNs_2024
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'
+
+ports:
+  - port: 8888
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true

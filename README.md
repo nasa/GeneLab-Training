@@ -1,57 +1,37 @@
-<img src="NASA_GeneLab_logo-2019.png" align="left" alt=""/>
+# GL4U Intro 
 
-<br/>
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024)
 
----
+This repository contains Jupyter Notebooks for the GL4U: Introduction Module Set.
 
-<br/>
+## Getting Started
 
-# GeneLab_Training
+To run these notebooks interactively, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with JupyterLab and all necessary dependencies installed.
 
-## About - Test Change
-The [NASA GeneLab](https://genelab.nasa.gov/) Data Processing team and Educational Working Group members have created training modules designed to teach high school and undergraduate students how to process genetic and gene expression (aka “omics”) data using [GeneLab's standard pipelines](https://github.com/nasa/GeneLab_Data_Processing). This repository contains space biology and bioinformatics lectures and hands-on instruction used during [GeneLab for High Schools (GL4HS)](https://www.nasa.gov/ames/genelab-for-high-schools) and [GeneLab for Colleges and Universities (GL4U)](GL4U) training programs. Each subdirectory in this repository holds training material for high school and undergraduate education levels for the omics data types hosted on the [GeneLab Data Repository](https://genelab-data.ndc.nasa.gov/genelab/projects).
+## Using Gitpod
 
----
-## Training Programs
-Click on training program below for more information:
-- [GL4HS](GL4HS)  
-- [GL4U](GL4U)  
+When you open the project in Gitpod:
 
----
-## Usage
-We encourage students and educators interested in learning and/or teaching bioinformatics to utilize the resources contained in this repository. Although the enclosed modules are designed to analyze and interpret space-relevant omics data, the materials and pipelines presented can be applied to omics data in all life science fields. 
+1. The environment will automatically be set up with all required tools.
+2. JupyterLab will start automatically in the background.
+3. Look for a message in the terminal that looks like this:
+   ```
+   [I 2024-09-19 02:56:58.464 ServerApp] Serving notebooks from local directory: /workspace/binder
+   [I 2024-09-19 02:56:58.464 ServerApp] Jupyter Server 2.14.2 is running at:
+   [I 2024-09-19 02:56:58.464 ServerApp] http://ghusername-repo-slajyvb4zo0:8888/lab
+   [I 2024-09-19 02:56:58.464 ServerApp]     http://127.0.0.1:8888/lab
+   ```
+4. Click on the http://127.0.0.1:8888/lab link. Gitpod will open JupyterLab in a new tab.
+5. All notebooks and data files will be available in the JupyterLab interface.
 
----
-### Contact
-For any questions, comments, and/or issues please [contact GeneLab](https://genelab.nasa.gov/help/contact).
+## Contents
 
----
-### Disclaimers
+### GL4U Intro JNs
+1. [Introduction to Jupyter](GL4U_Intro_JNs/01-jupyter-intro.ipynb)
+2. [Unix Introduction](GL4U_Intro_JNs/02-unix-intro.ipynb)
+3. [R Introduction](GL4U_Intro_JNs/03-R-intro.ipynb)
+4. [Sequencing Data Quality Control](GL4U_Intro_JNs/04-sequencing-data-QC.ipynb)
 
-**This repository contains training content and documentation for how to use previously released open source software. It does not constitute a new open source release.**
-
-No Warranty: THE SUBJECT SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY
-WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY,
-INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SUBJECT SOFTWARE
-WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM
-INFRINGEMENT, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL BE ERROR FREE,
-OR ANY WARRANTY THAT DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE
-SUBJECT SOFTWARE. THIS AGREEMENT DOES NOT, IN ANY MANNER, CONSTITUTE AN
-ENDORSEMENT BY GOVERNMENT AGENCY OR ANY PRIOR RECIPIENT OF ANY RESULTS,
-RESULTING DESIGNS, HARDWARE, SOFTWARE PRODUCTS OR ANY OTHER APPLICATIONS
-RESULTING FROM USE OF THE SUBJECT SOFTWARE.  FURTHER, GOVERNMENT AGENCY
-DISCLAIMS ALL WARRANTIES AND LIABILITIES REGARDING THIRD-PARTY SOFTWARE,
-IF PRESENT IN THE ORIGINAL SOFTWARE, AND DISTRIBUTES IT "AS IS."
-
-Waiver and Indemnity: RECIPIENT AGREES TO WAIVE ANY AND ALL CLAIMS
-AGAINST THE UNITED STATES GOVERNMENT, ITS CONTRACTORS AND
-SUBCONTRACTORS, AS WELL AS ANY PRIOR RECIPIENT.  IF RECIPIENT'S USE OF
-THE SUBJECT SOFTWARE RESULTS IN ANY LIABILITIES, DEMANDS, DAMAGES,
-EXPENSES OR LOSSES ARISING FROM SUCH USE, INCLUDING ANY DAMAGES FROM
-PRODUCTS BASED ON, OR RESULTING FROM, RECIPIENT'S USE OF THE SUBJECT
-SOFTWARE, RECIPIENT SHALL INDEMNIFY AND HOLD HARMLESS THE UNITED STATES
-GOVERNMENT, ITS CONTRACTORS AND SUBCONTRACTORS, AS WELL AS ANY PRIOR
-RECIPIENT, TO THE EXTENT PERMITTED BY LAW.  RECIPIENT'S SOLE REMEDY FOR
-ANY SUCH MATTER SHALL BE THE IMMEDIATE, UNILATERAL TERMINATION OF THIS
-AGREEMENT.
+### intro
+* [intro](intro)
+  - Directory holding the input files we will use in the GL4U Intro JNs
