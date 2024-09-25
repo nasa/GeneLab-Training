@@ -12,7 +12,9 @@ To avoid unexpected disconnections:
 
 - **Keep both the Gitpod editor and JupyterLab tabs open while working.**
 
-You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User Preferences](https://gitpod.io/user/preferences).
+You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User Preferences](https://gitpod.io/user/preferences) as shown below:
+
+<img src="images/gitpod-user-preferences.png" align="center" alt=""/>
 
 </details>  
 
