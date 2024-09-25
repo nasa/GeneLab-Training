@@ -22,10 +22,10 @@ tasks:
       echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
       echo "my_var <- Sys.getenv('my_var')" >> ~/.Rprofile
       echo "my_new_var <- Sys.getenv('my_new_var')" >> ~/.Rprofile
-      echo "if(file.exists('/workspace/GeneLab-Training/intro/example.csv')) {" >> ~/.Rprofile
-      echo "  myDF <- read.table('/workspace/GeneLab-Training/intro/example.csv', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
+      echo "if(file.exists('/workspace/GeneLab-Training/intro/example.txt')) {" >> ~/.Rprofile
+      echo "  myDF <- read.table('/workspace/GeneLab-Training/intro/example.txt', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
       echo "} else {" >> ~/.Rprofile
-      echo "  warning('example.csv file not found. myDF not created.')" >> ~/.Rprofile
+      echo "  warning('example.txt file not found. myDF not created.')" >> ~/.Rprofile
       echo "}" >> ~/.Rprofile
       
       # Start Jupyter Lab
