@@ -32,7 +32,7 @@ When you open the project in Gitpod:
 4. Look for a message in the terminal that looks like this:
    ```
    [I 2024-09-24 23:11:05.891 ServerApp] http://username-repo-u5e17l5rwf3:8888/lab?token=ec15f9e7b1a7ce015f1be5567cdd74a74fc948a68759e17c
-   [I 2024-09-24 23:11:05.891 ServerApp]     http://127.0.0.1:8888/lab?token=ec15f9e7b1a7ce015f1be5567cdd74a74fc948a68759e17c
+   [I 2024-09-24 23:11:05.891 ServerApp] http://127.0.0.1:8888/lab?token=ec15f9e7b1a7ce015f1be5567cdd74a74fc948a68759e17c
    ```
 5. Control-click (or Command-click on Mac) on the URL starting with `http://127.0.0.1:8888/lab?token=...`. This will open JupyterLab in a new tab.
 6. All notebooks will be available in the JupyterLab interface.  
