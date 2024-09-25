@@ -4,16 +4,11 @@ tasks:
   - name: Setup Environment and Start Jupyter Lab
     init: echo "Initializing environment..."
     command: |
-      # Set and export workDir
-      export workDir="/workspace/GeneLab-Training/intro/SolarSystem"
-      echo "export workDir=\"/workspace/GeneLab-Training/intro/SolarSystem\"" >> ~/.bashrc
       
       # Activate Conda environment
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
       
-      # Set R variables (after Conda activation)
-      echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
       
       echo "Environment setup complete. Starting Jupyter Lab..."
       
