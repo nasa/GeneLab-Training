@@ -7,19 +7,18 @@ tasks:
       export workDir="/workspace/GeneLab-Training/intro/SolarSystem"
       export my_var="Europa"
       export my_new_var="Europa is awesome."
-      
-      # Save Unix variables to .bashrc for future sessions
       echo "export workDir=\"/workspace/GeneLab-Training/intro/SolarSystem\"" >> ~/.bashrc
       echo "export my_var=\"Europa\"" >> ~/.bashrc
       echo "export my_new_var=\"Europa is awesome.\"" >> ~/.bashrc
       
-      # R variables in .Rprofile
-      echo "Sys.setenv(workDir = '/workspace/GeneLab-Training/intro/SolarSystem')" >> ~/.Rprofile
-      echo "Sys.setenv(my_var = 'Europa')" >> ~/.Rprofile
-      echo "Sys.setenv(my_new_var = 'Europa is awesome.')" >> ~/.Rprofile
-
-      # Read CSV into a data frame
+      # R variables
+      echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
+      echo "my_var <- Sys.getenv('my_var')" >> ~/.Rprofile
+      echo "my_new_var <- Sys.getenv('my_new_var')" >> ~/.Rprofile
       echo "myDF <- read.table('/workspace/GeneLab-Training/intro/example.csv', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
+      
+      # Source .bashrc to apply changes
+      source ~/.bashrc
       
       # Activate Conda environment and start Jupyter Lab
       source $HOME/miniconda3/etc/profile.d/conda.sh
