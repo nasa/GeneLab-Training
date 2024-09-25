@@ -21,7 +21,7 @@ COPY environment.yml /tmp/environment.yml
 RUN mamba env create -f /tmp/environment.yml \
     && conda clean -afy
 
-# Set up JupyterLab to trust all notebooks
-RUN mkdir -p ~/.jupyter \
-    && echo "c.NotebookApp.token = ''" >> ~/.jupyter/jupyter_notebook_config.py \
-    && echo "c.NotebookApp.password = ''" >> ~/.jupyter/jupyter_notebook_config.py
+# Enable Jupyter extensions
+RUN /bin/bash -c "source activate GL4U_Intro_JNs_2024 \
+    && jupyter contrib nbextension install --user \
+    && jupyter nbextensions_configurator enable --user"
