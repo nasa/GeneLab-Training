@@ -13,7 +13,7 @@ tasks:
       echo "Environment setup complete. Starting Jupyter Lab..."
       
       # Start Jupyter Lab
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.notebook_starts_kernel=False
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False
 
 ports:
   - port: 8888
