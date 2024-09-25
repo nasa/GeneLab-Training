@@ -4,14 +4,12 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - python>=3.10
+  - python==3.10
   - pip
   - jupyterlab==4.2.5
+  - notebook==6.5.5
   - bash_kernel==0.9.3
   - r-irkernel
-  - nbconvert
-  - pip:
-    - jupyter_contrib_nbextensions==0.7.0
   - coreutils
   - htslib
   - openssl
@@ -27,3 +25,7 @@ dependencies:
   - fastqc==0.12.1
   - multiqc==1.24.1
   - samtools==1.21
+  - pip:
+    - jupyter_contrib_nbextensions==0.7.0
+    - jupyter_nbextensions_configurator==0.6.3
+    - nbclassic==0.4.8

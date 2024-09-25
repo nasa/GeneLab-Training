@@ -83,10 +83,9 @@ RUN conda run -n gl4u_rnaseq_2024 R -e "\
 RUN conda run -n gl4u_rnaseq_2024 pip install RSeQC==5.0.3 && \
     echo 'export PATH=$PATH:$HOME/miniconda3/envs/gl4u_rnaseq_2024/bin' >> $HOME/.bashrc
 
-# Set up JupyterLab to trust all notebooks
-RUN mkdir -p ~/.jupyter \
-    && echo "c.NotebookApp.token = ''" >> ~/.jupyter/jupyter_notebook_config.py \
-    && echo "c.NotebookApp.password = ''" >> ~/.jupyter/jupyter_notebook_config.py
+# Enable Jupyter extensions
+RUN conda run -n gl4u_rnaseq_2024 jupyter contrib nbextension install --user && \
+    conda run -n gl4u_rnaseq_2024 jupyter nbextensions_configurator enable --user
 
 # Add Conda initialization to .bashrc
 RUN echo ". $HOME/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
