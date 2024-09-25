@@ -28,14 +28,13 @@ When you open the project in Gitpod:
 
 1. The environment will automatically be set up with all required tools.
 2. JupyterLab will start automatically in the background.
-3. A popup will open asking, "Do you want Gitpod Code to open the external website?" Close this tab.
-4. Look for a message in the terminal that looks like this:
+3. Look for a message in the terminal that looks like this:
    ```
    [I 2024-09-24 23:11:05.891 ServerApp] http://username-repo-u5e17l5rwf3:8888/lab?token=ec15f9e7b1a7ce015f1be5567cdd74a74fc948a68759e17c
    [I 2024-09-24 23:11:05.891 ServerApp] http://127.0.0.1:8888/lab?token=ec15f9e7b1a7ce015f1be5567cdd74a74fc948a68759e17c
    ```
-5. Control-click (or Command-click on Mac) on the URL starting with `http://127.0.0.1:8888/lab?token=...`. This will open JupyterLab in a new tab.
-6. All notebooks will be available in the JupyterLab interface.  
+4. Control-click (or Command-click on Mac) on the URL starting with `http://127.0.0.1:8888/lab?token=...`. This will open JupyterLab in a new tab.
+5. All notebooks will be available in the JupyterLab interface.  
 
 
 ## Contents  
