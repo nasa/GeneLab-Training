@@ -11,20 +11,25 @@ tasks:
       echo "export my_var=\"Europa\"" >> ~/.bashrc
       echo "export my_new_var=\"Europa is awesome.\"" >> ~/.bashrc
       
-      # R variables
-      echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
-      echo "my_var <- Sys.getenv('my_var')" >> ~/.Rprofile
-      echo "my_new_var <- Sys.getenv('my_new_var')" >> ~/.Rprofile
-      echo "myDF <- read.table('/workspace/GeneLab-Training/intro/example.csv', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
-      
       # Source .bashrc to apply changes
       source ~/.bashrc
       
-      # Activate Conda environment and start Jupyter Lab
+      # Activate Conda environment
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
+      
+      # R variables (after Conda activation)
+      echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
+      echo "my_var <- Sys.getenv('my_var')" >> ~/.Rprofile
+      echo "my_new_var <- Sys.getenv('my_new_var')" >> ~/.Rprofile
+      echo "if(file.exists('/workspace/GeneLab-Training/intro/example.csv')) {" >> ~/.Rprofile
+      echo "  myDF <- read.table('/workspace/GeneLab-Training/intro/example.csv', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
+      echo "} else {" >> ~/.Rprofile
+      echo "  warning('example.csv file not found. myDF not created.')" >> ~/.Rprofile
+      echo "}" >> ~/.Rprofile
+      
+      # Start Jupyter Lab
       jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.notebook_starts_kernel=False
-
 
 ports:
   - port: 8888
