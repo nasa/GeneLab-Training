@@ -1,12 +1,83 @@
-image: torresalexis/gl4u_rnaseq_2024:1.0.0
+image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq_2024
 
 tasks:
-  - init: |
-      echo "Starting GL4U RNAseq Gitpod"
-      source $HOME/miniconda3/etc/profile.d/conda.sh
+  - name: Setup Environment and Start Jupyter Lab
+    init: echo "Initializing environment..."
     command: |
+      # Set and export workDir
+      export workDir="/workspace/GeneLab-Training/RNAseq"
+      echo "export workDir=\"/workspace/GeneLab-Training/RNAseq\"" >> ~/.bashrc
+      
+      # Set specific RNAseq processing variables
+      export metadata=/workspace/GeneLab-Training/OSD-104/Metadata
+      export raw_fastq=/workspace/GeneLab-Training/OSD-104/00-RawData/Fastq
+      export raw_fastqc=/workspace/GeneLab-Training/OSD-104/00-RawData/FastQC_Reports
+      export raw_multiqc=/workspace/GeneLab-Training/OSD-104/00-RawData/FastQC_Reports/raw_multiqc_report
+      export trimmed_fastq=/workspace/GeneLab-Training/OSD-104/01-TG_Preproc/Fastq
+      export trimmed_fastqc=/workspace/GeneLab-Training/OSD-104/01-TG_Preproc/FastQC_Reports
+      export trimmed_multiqc=/workspace/GeneLab-Training/OSD-104/01-TG_Preproc/FastQC_Reports/trimmed_multiqc_report
+      export STAR_output=/workspace/GeneLab-Training/OSD-104/02-STAR_Alignment
+      export STAR_logs=/workspace/GeneLab-Training/OSD-104/02-STAR_Alignment/Log_files
+      export aligned_multiqc=/workspace/GeneLab-Training/OSD-104/02-STAR_Alignment/aligned_multiqc_report
+      export REFs=/workspace/GeneLab-Training/OSD-104/References
+      export RSeQC_infer_exp=/workspace/GeneLab-Training/OSD-104/RSeQC_analyses/infer_exp
+      export RSeQC_infer_exp_multiqc=/workspace/GeneLab-Training/OSD-104/RSeQC_analyses/infer_exp/infer_exp_multiqc_report
+      export RSEM_output=/workspace/GeneLab-Training/OSD-104/03-RSEM_Counts
+      export RSEM_logs=/workspace/GeneLab-Training/OSD-104/03-RSEM_Counts/Log_files
+      export count_multiqc=/workspace/GeneLab-Training/OSD-104/03-RSEM_Counts/count_multiqc_report
+      export processing=/workspace/GeneLab-Training/OSD-104/processing_scripts
+      
+      # Add all exports to .bashrc for persistence
+      echo "export metadata=$metadata" >> ~/.bashrc
+      echo "export raw_fastq=$raw_fastq" >> ~/.bashrc
+      echo "export raw_fastqc=$raw_fastqc" >> ~/.bashrc
+      echo "export raw_multiqc=$raw_multiqc" >> ~/.bashrc
+      echo "export trimmed_fastq=$trimmed_fastq" >> ~/.bashrc
+      echo "export trimmed_fastqc=$trimmed_fastqc" >> ~/.bashrc
+      echo "export trimmed_multiqc=$trimmed_multiqc" >> ~/.bashrc
+      echo "export STAR_output=$STAR_output" >> ~/.bashrc
+      echo "export STAR_logs=$STAR_logs" >> ~/.bashrc
+      echo "export aligned_multiqc=$aligned_multiqc" >> ~/.bashrc
+      echo "export REFs=$REFs" >> ~/.bashrc
+      echo "export RSeQC_infer_exp=$RSeQC_infer_exp" >> ~/.bashrc
+      echo "export RSeQC_infer_exp_multiqc=$RSeQC_infer_exp_multiqc" >> ~/.bashrc
+      echo "export RSEM_output=$RSEM_output" >> ~/.bashrc
+      echo "export RSEM_logs=$RSEM_logs" >> ~/.bashrc
+      echo "export count_multiqc=$count_multiqc" >> ~/.bashrc
+      echo "export processing=$processing" >> ~/.bashrc
+      
+      # Activate Conda environment
+      source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate gl4u_rnaseq_2024
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0'
+      
+      # Set R variables (after Conda activation)
+      echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
+      echo "metadata_dir <- \"/workspace/GeneLab-Training/OSD-104/Metadata\"" >> ~/.Rprofile
+      echo "counts_dir <- \"/workspace/GeneLab-Training/OSD-104/03-RSEM_Counts\"" >> ~/.Rprofile
+      echo "norm_output <- \"/workspace/GeneLab-Training/OSD-104/04-DESeq2_NormCounts\"" >> ~/.Rprofile
+      echo "pca_dir <- \"/workspace/GeneLab-Training/OSD-104/04-DESeq2_NormCounts/PCA\"" >> ~/.Rprofile
+      echo "DGE_output <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE\"" >> ~/.Rprofile
+      echo "DGE_pca <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/PCA\"" >> ~/.Rprofile
+      echo "DGE_heatmaps <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/Heatmaps\"" >> ~/.Rprofile
+      echo "DGE_volcano <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/VolcanoPlots\"" >> ~/.Rprofile
+      echo "DGE_gsea <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/GSEA\"" >> ~/.Rprofile
+      
+      echo "Environment setup complete. Starting Jupyter Lab..."
+      
+      # Start Jupyter Lab
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False
 
 ports:
   - port: 8888
+    onOpen: open-preview
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+
+vscode:
+  extensions:
+    - ms-python.python
+    - ms-toolsai.jupyter
