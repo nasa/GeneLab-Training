@@ -16,4 +16,5 @@ dependencies:
   - multiqc==1.24.1
   - python>3.10
   - pip
-
+  - pip:
+    - jupyter_contrib_nbextensions==0.7.0

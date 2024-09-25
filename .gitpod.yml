@@ -9,6 +9,11 @@ tasks:
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
       
+      # Install jupyter_contrib_nbextensions and pin nbclassic version
+      pip install jupyter_contrib_nbextensions==0.7.0 "nbclassic<0.5"
+      
+      # Install the nbextensions
+      jupyter contrib nbextension install --user
       
       echo "Environment setup complete. Starting Jupyter Lab..."
       
