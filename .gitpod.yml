@@ -18,13 +18,12 @@ tasks:
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
       
-      conda install r-languageserver
       # R variables (after Conda activation)
       echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
       echo "my_var <- Sys.getenv('my_var')" >> ~/.Rprofile
       echo "my_new_var <- Sys.getenv('my_new_var')" >> ~/.Rprofile
       echo "if(file.exists('/workspace/GeneLab-Training/intro/example.txt')) {" >> ~/.Rprofile
-      echo "  myDF <- read.table('/workspace/GeneLab-Training/intro/example.txt', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
+      echo "  myDF <- utils::read.table('/workspace/GeneLab-Training/intro/example.txt', sep = ',', row.names = 1, header = TRUE)" >> ~/.Rprofile
       echo "} else {" >> ~/.Rprofile
       echo "  warning('example.txt file not found. myDF not created.')" >> ~/.Rprofile
       echo "}" >> ~/.Rprofile
