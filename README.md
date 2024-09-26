@@ -28,17 +28,14 @@ To run these notebooks interactively, click the "Open in Gitpod" button above. T
 
 When you open the project in Gitpod:
 
-1. The environment will automatically be set up with all required tools, including Bioconductor packages.
-2. JupyterLab will start automatically in the background.
-3. You may see a notification saying "A service is available on port 8888." You can ignore or close it.
-4. Look for a message in the terminal that looks like this:
-   ```
-   [I 2024-09-25 02:45:43.108 ServerApp] Jupyter Server 2.14.2 is running at:
-   [I 2024-09-25 02:45:43.109 ServerApp] http://username-repo-z5gc3icw1av:8888/lab?token=c9b0371c103781fcb6d451151f0a3c3ca02fd88bdc9f59fb
-   [I 2024-09-25 02:45:43.109 ServerApp] http://127.0.0.1:8888/lab?token=c9b0371c103781fcb6d451151f0a3c3ca02fd88bdc9f59fb
-   ```
-5. Control-click (or Command-click on Mac) on the URL starting with `http://127.0.0.1:8888/lab?token=...`. This will open JupyterLab in a new tab.
-6. All notebooks and data files will be available in the JupyterLab interface.
+1. Wait for the environment to set up and JupyterLab to start in the background.
+2. Look for a message in the terminal that contains the URL: http://127.0.0.1:8888/lab
+   It will look similar to this:
+
+   <img src="https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/images/gitpod-jupyter-running.png" align="center" alt="Jupyter Server Running Message"/>
+
+3. Click on this URL to open JupyterLab in a new tab.
+4. All notebooks and data files will be available in the JupyterLab interface.
 
 ## Contents
 
