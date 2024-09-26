@@ -1,24 +1,12 @@
-image: quay.io/nasa_genelab/gl4u:gl4u_intro_2024
+image: quay.io/nasa_genelab/gl4u:gl4u_intro
 
 tasks:
-  - name: Setup Environment and Start Jupyter Lab
-    init: echo "Initializing environment..."
+  - name: Start Jupyter Lab
     command: |
-      
-      # Activate Conda environment
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
-      
-      # Install jupyter_contrib_nbextensions and pin nbclassic version
-      pip install jupyter_contrib_nbextensions==0.7.0 "nbclassic<0.5"
-      
-      # Install the nbextensions
-      jupyter contrib nbextension install --user
-      
-      echo "Environment setup complete. Starting Jupyter Lab..."
-      
-      # Start Jupyter Lab
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False
+      echo "Starting Jupyter Lab..."
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False --NotebookApp.token='' --NotebookApp.password=''
 
 ports:
   - port: 8888
