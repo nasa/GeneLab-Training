@@ -18,11 +18,15 @@ You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User 
 
 </details>  
 
+<br>
+
 ## Getting Started  
 
 > Note: Review the [section about Gitpod session timeouts](#understanding-gitpod-session-timeouts) and adjust your default timeout settings as needed.  
 
 To run these notebooks interactively, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with JupyterLab and all necessary dependencies installed.  
+
+<br>
 
 ## Using Gitpod  
 
@@ -37,6 +41,8 @@ When you open the project in Gitpod:
 3. Click on this URL to open JupyterLab in a new tab.
 4. All notebooks and data files will be available in the JupyterLab interface.
 
+<br>
+
 ## Contents  
 
 ### GL4U Intro JNs  
@@ -48,6 +54,8 @@ When you open the project in Gitpod:
 ### intro  
 * [intro](intro)
   - Directory holding the input files we will use in the GL4U Intro JNs
+
+<br>
 
 ## Troubleshooting Gitpod Time Out 
 
