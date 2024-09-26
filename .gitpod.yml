@@ -1,4 +1,4 @@
-image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq_2024
+image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq
 
 tasks:
   - name: Setup Environment and Start Jupyter Lab
@@ -62,14 +62,12 @@ tasks:
       echo "DGE_volcano <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/VolcanoPlots\"" >> ~/.Rprofile
       echo "DGE_gsea <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/GSEA\"" >> ~/.Rprofile
       
-      echo "Environment setup complete. Starting Jupyter Lab..."
-      
+      echo "Starting Jupyter Lab..."
       # Start Jupyter Lab
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False
+      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False --NotebookApp.token='' --NotebookApp.password=''
 
 ports:
   - port: 8888
-    onOpen: open-preview
 
 github:
   prebuilds:
