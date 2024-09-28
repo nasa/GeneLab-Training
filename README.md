@@ -53,6 +53,9 @@ When you open the project in Gitpod:
 * [OSD-104](OSD-104)
   - Directory holding the input files we will use in the GL4U RNAseq JNs to process RNAseq data from [OSD-104](https://osdr.nasa.gov/bio/repo/data/studies/OSD-104).
 
+### GL4U Intro Lectures
+1. [RNAseq Overview](GL4U_RNAseq_Lectures/RNAseq_Overview_2024_compressed.pdf) 
+
 <br>
 
 ## Troubleshooting Gitpod Time Out 
