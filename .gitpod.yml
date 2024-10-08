@@ -5,19 +5,12 @@ tasks:
     command: |
       source $HOME/miniconda3/etc/profile.d/conda.sh
       conda activate GL4U_Intro_JNs_2024
-      echo "Starting Jupyter Lab..."
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False --NotebookApp.token='' --NotebookApp.password=''
-
-ports:
-  - port: 8888
-
-github:
-  prebuilds:
-    master: true
-    branches: true
-    pullRequests: true
-
 vscode:
   extensions:
+    - mechatroner.rainbow-csv
     - ms-python.python
     - ms-toolsai.jupyter
+    - ms-toolsai.vscode-jupyter-powertoys
+    - reditorsupport.r
+    - esbenp.prettier-vscode 
+    - mechatroner.rainbow-csv
