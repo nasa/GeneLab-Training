@@ -10,7 +10,7 @@ vscode:
     - mechatroner.rainbow-csv
     - ms-python.python
     - ms-toolsai.jupyter
-    - ms-toolsai.vscode-jupyter-powertoys
+    # - ms-toolsai.vscode-jupyter-powertoys
     - reditorsupport.r
     - esbenp.prettier-vscode 
     - mechatroner.rainbow-csv
