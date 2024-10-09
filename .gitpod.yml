@@ -1,7 +1,7 @@
 image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq
 
 tasks:
-  - name: Setup Environment and Start Jupyter Lab
+  - name: Setup Environment
     init: echo "Initializing environment..."
     command: |
       # Set and export workDir
@@ -61,13 +61,6 @@ tasks:
       echo "DGE_heatmaps <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/Heatmaps\"" >> ~/.Rprofile
       echo "DGE_volcano <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/VolcanoPlots\"" >> ~/.Rprofile
       echo "DGE_gsea <- \"/workspace/GeneLab-Training/OSD-104/05-DESeq2_DGE/DGE_plots/GSEA\"" >> ~/.Rprofile
-      
-      echo "Starting Jupyter Lab..."
-      # Start Jupyter Lab
-      jupyter lab --NotebookApp.allow_origin='*' --NotebookApp.ip='0.0.0.0' --LabServerApp.open_browser=False --NotebookApp.token='' --NotebookApp.password=''
-
-ports:
-  - port: 8888
 
 github:
   prebuilds:
@@ -77,5 +70,9 @@ github:
 
 vscode:
   extensions:
+    - mechatroner.rainbow-csv
     - ms-python.python
     - ms-toolsai.jupyter
+    - reditorsupport.r
+    - esbenp.prettier-vscode
+    - mechatroner.rainbow-csv
