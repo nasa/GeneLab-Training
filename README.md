@@ -30,7 +30,7 @@ When you open the project in Gitpod:
 2. **Navigate to the Notebooks:** In the VSCode interface, use the file explorer on the left to navigate to the Jupyter Notebooks (files ending with `.ipynb`).
 3. **Open a Notebook:** Click on a notebook file to open it in the editor.
 4. **Select the Appropriate Kernel:** Ensure that the correct kernel (Bash, Python, or R) is selected for each notebook. You can select the kernel by clicking on the kernel name at the top right corner of the notebook editor.
-5. **Run Cells:** You can run the cells directly within VSCode by clicking on the Run button (▶️) **to the left of the cell** or pressing `Shift+Enter`.
+5. **Run Cells:** You can run the cells directly within VSCode by clicking on the Run button (▶️) to the left of the cell or pressing `Shift+Enter`.
 
 > **Note:** Remember to save your work frequently. While Gitpod automatically saves changes, it's good practice to save to prevent data loss in case of a timeout.
 
