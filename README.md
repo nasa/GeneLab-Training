@@ -6,15 +6,11 @@
 <details id="understanding-gitpod-session-timeouts">
   <summary>⚠️ <strong>Important: Understand Gitpod Session Timeouts Before Launching Gitpod</strong></summary>
 
-By default, Gitpod workspaces have an inactivity timeout of **30 minutes**. If there is no user input during this time, your workspace will stop. Additionally, if you close the Gitpod editor tab (but leave JupyterLab open), the timeout reduces to **5 minutes**. 
+By default, Gitpod workspaces have an inactivity timeout of **30 minutes**. If there is no user input during this time, your workspace will stop. Additionally, if you close the Gitpod workspace tab, the timeout reduces to **5 minutes**.
 
-To avoid unexpected disconnections:
+If your workspace stops due to inactivity, you can restart it from your [Gitpod Workspaces](https://gitpod.io/workspaces) page. Look for your workspace in the list and click on its name to restart it.
 
-- **Keep both the Gitpod editor and JupyterLab tabs open while working.**
-
-You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User Preferences](https://gitpod.io/user/preferences) as shown below:
-
-<img src="https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/images/gitpod-user-preferences.png" align="center" alt=""/>
+For more details on workspace lifecycle and managing timeouts, see the [Gitpod Workspace Lifecycle Documentation](https://www.gitpod.io/docs/configure/workspaces/workspace-lifecycle).
 
 </details>  
 
@@ -22,9 +18,7 @@ You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User 
 
 ## Getting Started
 
-> Note: Review the [section about Gitpod session timeouts](#understanding-gitpod-session-timeouts) and adjust your default timeout settings as needed.
-
-To run these notebooks interactively, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with JupyterLab and all necessary dependencies installed.
+To run these notebooks interactively, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with VSCode, Jupyter, and all necessary dependencies installed. No additional setup is required.
 
 <br>
 
@@ -32,14 +26,13 @@ To run these notebooks interactively, click the "Open in Gitpod" button above. T
 
 When you open the project in Gitpod:
 
-1. Wait for the environment to set up and JupyterLab to start in the background.
-2. Look for a message in the terminal that contains the URL: http://127.0.0.1:8888/lab
-   It will look similar to this:
+1. **Wait for the environment to set up.** The VSCode editor will open within the Gitpod workspace.
+2. **Navigate to the Notebooks:** In the VSCode interface, use the file explorer on the left to navigate to the Jupyter Notebooks (files ending with `.ipynb`).
+3. **Open a Notebook:** Click on a notebook file to open it in the editor.
+4. **Select the Appropriate Kernel:** Ensure that the correct kernel (Bash, Python, or R) is selected for each notebook. You can select the kernel by clicking on the kernel name at the top right corner of the notebook editor.
+5. **Run Cells:** You can run the cells directly within VSCode by clicking on the Run button (▶️) to the left of the cell or pressing `Shift+Enter`.
 
-   <img src="https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/images/gitpod-jupyter-running.png" align="center" alt="Jupyter Server Running Message"/>
-
-3. Click on this URL to open JupyterLab in a new tab.
-4. All notebooks and data files will be available in the JupyterLab interface.
+> **Note:** Remember to save your work frequently. While Gitpod automatically saves changes, it's good practice to save to prevent data loss in case of a timeout.
 
 <br>
 
@@ -53,18 +46,23 @@ When you open the project in Gitpod:
 * [OSD-104](OSD-104)
   - Directory holding the input files we will use in the GL4U RNAseq JNs to process RNAseq data from [OSD-104](https://osdr.nasa.gov/bio/repo/data/studies/OSD-104).
 
-### GL4U Intro Lectures
+### GL4U RNAseq Lectures
 1. [RNAseq Overview](GL4U_RNAseq_Lectures/RNAseq_Overview_2024_compressed.pdf) 
 
 <br>
 
-## Troubleshooting Gitpod Time Out 
+## Troubleshooting Gitpod Timeout 
 
-While completing the JNs in the Jupyter Lab environment, your GitPod session my timeout. If this happens, when you try to run a code cell in your JN you may get an error indicating that a folder or file is not found, as shown below:
+Gitpod will time out after **30 minutes** of inactivity. When this happens, your workspace will stop, and a timeout message will be displayed.
 
-![GitPot_TimeOut_JN_identified](https://github.com/user-attachments/assets/9a72cba3-64c6-4b54-bc9a-f9b5e635ecf7)
+![Gitpod Timeout Message](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/images/gitpod-timeout.png)
 
-If this happens, look at the tab containing your GitPod terminal (the one that contained the link to the Jupyter Lab). You will likely see the "Timed Out" message shown below. You can re-start your session by click on the "Open Workspace" button as shown below:
-> _Note: Once you restart your workspace, make sure you re-run all the code blocks to ensure all variables are re-set and output files are generated._
+To restart your session:
 
-![GitPot_TimeOut_Terminal_identified](https://github.com/user-attachments/assets/91b2d26c-582c-415c-8e86-e52c2681f594)
+1. **Go to your [Gitpod Workspaces](https://gitpod.io/workspaces) page.**
+2. **Find your workspace in the list and click on its name to restart it.**
+3. **Wait for the workspace to reload.**
+
+> _Note: After restarting your workspace, make sure to re-run all code cells in your notebooks to reinitialize variables._
+
+For more information on managing your workspaces, refer to the [Gitpod Workspace Lifecycle Documentation](https://www.gitpod.io/docs/configure/workspaces/workspace-lifecycle).
