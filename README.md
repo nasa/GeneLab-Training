@@ -1,5 +1,30 @@
 # GL4U Intro 
 
+The GL4U Intro Jupyter notebooks can be run either as a Docker container or directly in Gitpod. 
+
+## Option 1: Using Docker
+
+### Instructions
+
+1. Pull the Docker image:
+   ```
+   docker pull quay.io/nasa_genelab/gl4u-intro-2024:1.0.0
+   ```
+
+2. Run the Docker container and expose port 8888:
+   ```
+   docker run -it -p 8888:8888 quay.io/nasa_genelab/gl4u-intro-2024:1.0.0
+   ```
+
+3. Once the container is running, Jupyter Lab will start automatically, you should see a URL with a token in your terminal. It should look something like this:
+   ```
+   [I 2024-10-23 02:16:43.487 ServerApp]     http://127.0.0.1:8888/lab?token=8ec2547a55dee7b19f27d5687a1d61847cb9b35713cb8f0b
+   ```
+
+6. Hold Ctrl (or Cmd on Mac) and click on the URL to open Jupyter Lab in your web browser.
+
+## Option 2: Using Gitpod
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024)  
 *Click the button above to launch an interactive Gitpod workspace.*  
 
@@ -20,15 +45,13 @@ You can adjust your timeout settings (default: 30 minutes) in your [Gitpod User 
 
 <br>
 
-## Getting Started  
+### Getting Started with Gitpod
 
 > Note: Review the [section about Gitpod session timeouts](#understanding-gitpod-session-timeouts) and adjust your default timeout settings as needed.  
 
-To run these notebooks interactively, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with JupyterLab and all necessary dependencies installed.  
+To run these notebooks interactively using Gitpod, click the "Open in Gitpod" button above. This will launch a Gitpod workspace with JupyterLab and all necessary dependencies installed.  
 
-<br>
-
-## Using Gitpod  
+### Using Gitpod  
 
 When you open the project in Gitpod:  
 
