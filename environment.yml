@@ -29,3 +29,4 @@ dependencies:
     - jupyter_contrib_nbextensions==0.7.0
     - jupyter_nbextensions_configurator==0.6.3
     - nbclassic==0.4.8
+    - git+https://github.com/torres-alexis/dp_tools.git@1.3.5-rc.4
