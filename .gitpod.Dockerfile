@@ -68,6 +68,13 @@ RUN conda run -n gl4u_rnaseq_2024 R -e "\
         'tximport', \
         'DESeq2', \
         'org.Mm.eg.db', \
+        'org.At.tair.db', \
+        'org.Ce.eg.db', \
+        'org.Dr.eg.db', \
+        'org.Dm.eg.db', \
+        'org.Hs.eg.db', \
+        'org.Rn.eg.db', \
+        'org.Sc.sgd.db', \
         'STRINGdb', \
         'PANTHER.db', \
         'ComplexHeatmap', \
