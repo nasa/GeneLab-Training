@@ -1,6 +1,7 @@
 FROM gitpod/workspace-base:latest
 
 USER gitpod
+ENV TZ=America/Los_Angeles
 
 # Install system dependencies
 RUN sudo apt-get update && sudo apt-get install -y \
@@ -25,24 +26,29 @@ RUN sudo apt-get update && sudo apt-get install -y \
     liblzma-dev \
     && sudo apt-get clean && sudo rm -rf /var/lib/apt/lists/*
 
-# Install Miniconda
+# Install conda
 RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh \
     && bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda3 \
     && rm Miniconda3-latest-Linux-x86_64.sh
 
-# Update PATH for conda
+# Add conda to path
 ENV PATH=$HOME/miniconda3/bin:$PATH
 
-# Create conda environment
+# Update conda and install mamba
+RUN conda update -n base -c defaults conda \
+    && conda install -n base -c conda-forge mamba
+
+# Copy environment file
 COPY environment.yml /tmp/environment.yml
-RUN conda env create -f /tmp/environment.yml \
+
+# Create conda environment
+RUN mamba env create -f /tmp/environment.yml \
     && conda clean -afy
 
-# Activate conda environment in .bashrc
-RUN echo "conda activate gl4u_rnaseq_2024" >> ~/.bashrc
-
-# Add R and Rscript to PATH
-ENV PATH=$HOME/miniconda3/envs/gl4u_rnaseq_2024/bin:$PATH
+# Enable Jupyter extensions
+RUN /bin/bash -c "source activate GL4U_RNAseq_JNs_2024 \
+    && jupyter contrib nbextension install --user \
+    && jupyter nbextensions_configurator enable --user"
 
 # Install RSEM from source
 RUN wget https://github.com/deweylab/RSEM/archive/v1.3.3.tar.gz && \
@@ -61,7 +67,7 @@ RUN mkdir -p ~/.R && \
     echo "options(repos = c(CRAN = 'https://cloud.r-project.org'))" > ~/.Rprofile
 
 # Install additional R packages
-RUN conda run -n gl4u_rnaseq_2024 R -e "\
+RUN conda run -n GL4U_RNAseq_JNs_2024 R -e "\
     options(repos = c(CRAN = 'https://cloud.r-project.org')); \
     if (!requireNamespace('BiocManager', quietly = TRUE)) install.packages('BiocManager', dependencies = TRUE); \
     BiocManager::install(c( \
@@ -87,12 +93,5 @@ RUN conda run -n gl4u_rnaseq_2024 R -e "\
     install.packages('tidyHeatmap', dependencies = TRUE);"
 
 # Install RSeQC 5.0.3 and add to PATH
-RUN conda run -n gl4u_rnaseq_2024 pip install RSeQC==5.0.3 && \
-    echo 'export PATH=$PATH:$HOME/miniconda3/envs/gl4u_rnaseq_2024/bin' >> $HOME/.bashrc
-
-# Enable Jupyter extensions
-RUN conda run -n gl4u_rnaseq_2024 jupyter contrib nbextension install --user && \
-    conda run -n gl4u_rnaseq_2024 jupyter nbextensions_configurator enable --user
-
-# Add Conda initialization to .bashrc
-RUN echo ". $HOME/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
+RUN conda run -n GL4U_RNAseq_JNs_2024 pip install RSeQC==5.0.3 && \
+    echo 'export PATH=$PATH:$HOME/miniconda3/envs/GL4U_RNAseq_JNs_2024/bin' >> $HOME/.bashrc

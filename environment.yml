@@ -1,4 +1,4 @@
-name: gl4u_rnaseq_2024
+name: GL4U_RNAseq_JNs_2024
 channels:
   - conda-forge
   - bioconda
