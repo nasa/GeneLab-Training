@@ -11,79 +11,79 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
    
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024)
 
-3. When prompted, click "Continue" as shown below:  
+2. When prompted, click "Continue" as shown below:  
 
 ![click_continue](https://github.com/user-attachments/assets/7e6a8e96-fc5a-48dc-af4e-2db6fa0330fd)
 
   
-4. You'll see the following icon indicating that the environment is setting up:  
+3. You'll see the following icon indicating that the environment is setting up:  
 
 ![GitPod_setting-up](https://github.com/user-attachments/assets/cc107d6f-d07b-412e-aaf3-96933e63b797)
 
    
-5. Once the environment finishes setting up, it will look as follows:
+4. Once the environment finishes setting up, it will look as follows:
    > _Note: You can 'X' out of the pop-ups in the lower right corner._  
 
 ![Full_GitPod](https://github.com/user-attachments/assets/861e7f8b-0a67-4e36-888b-a7417711601a)
 
    
-6. Look for a message in the terminal that contains the URL: http://127.0.0.1:8888/lab
+5. Look for a message in the terminal that contains the URL: http://127.0.0.1:8888/lab
    It will look similar to this:  
 
 ![Jupyter_link](https://github.com/user-attachments/assets/d5d82272-123f-42c4-981f-e3cdefacf42e)
 
 
-7. CMD+Click (Mac) or CTRL+Click (Windows) on this URL to open the Jupyter Lab environment in a new tab, which will look as follows:  
+6. CMD+Click (Mac) or CTRL+Click (Windows) on this URL to open the Jupyter Lab environment in a new tab, which will look as follows:  
    > _Note: You can 'X' out of the pop-ups in the lower right corner._  
 
 ![Jupyter_Lab](https://github.com/user-attachments/assets/32a02d3f-9495-4eea-90ba-f3bb6004a092)
 
 
-8. In the left side bar, double click on the "GL4U_Intro_JNs" folder as shown below:  
+7. In the left side bar, double click on the "GL4U_Intro_JNs" folder as shown below:  
 
 ![GL4U_intro_JNs_folder](https://github.com/user-attachments/assets/9eef705a-d826-47f7-bd07-a5af13d3a915)
 
 
-9. Then double click on the "01-jupyter-intro.ipynb" file as shown below:  
+8. Then double click on the "01-jupyter-intro.ipynb" file as shown below:  
 
 ![select_01-JN](https://github.com/user-attachments/assets/071ac0c6-58f3-43f7-bba9-daa3add6ac80)
 
 
-10. This will open the first of four Jupyter Notebooks (JNs), titled "An Introduction To Jupyter":  
+9. This will open the first of four Jupyter Notebooks (JNs), titled "An Introduction To Jupyter":  
 
 ![01-Jupyter-Intro](https://github.com/user-attachments/assets/015aecbd-4727-49e3-b325-b7f3f153bea1)
 
 
-11. Carefully read through the JN and complete all activities and **be sure to save as you go by clicking CMD+S (Mac) or CTRL+S (Windows)**.
+10. Carefully read through the JN and complete all activities and **be sure to save as you go by clicking CMD+S (Mac) or CTRL+S (Windows)**.
 
-12. Once complete, download the completed JN to your computer by clicking "File" in the top left corner then "Download" as shown below:
+11. Once complete, download the completed JN to your computer by clicking "File" in the top left corner then "Download" as shown below:
     > _Note: Keep track of where on your computer you download your completed JN._  
 
 ![download](https://github.com/user-attachments/assets/0f73c1e1-3195-4365-ada9-b3a3b60b1bb5)
 
 
-13. Next, export your completed JN as an HTML file by clicking "File" then "Save and Export Notebook As" then "HTML" as shown below:  
+12. Next, export your completed JN as an HTML file by clicking "File" then "Save and Export Notebook As" then "HTML" as shown below:  
     > _Note: Keep track of where on your computer you download the HTML version of your completed JN._
 
 ![html](https://github.com/user-attachments/assets/f3a7a0ee-c4c7-45f4-a204-b23ca30553a7)
 
 
-14. Shutdown your Jupyter Lab environment by clicking "File" then "Shut Down" and confirm your shutdown by clicking the "Shut Down" button in the pop-up window that appears as shown below:  
+13. Shutdown your Jupyter Lab environment by clicking "File" then "Shut Down" and confirm your shutdown by clicking the "Shut Down" button in the pop-up window that appears as shown below:  
 
 ![shutdown_jupyter](https://github.com/user-attachments/assets/32cc3cb3-1af5-424e-9c13-2aab08bad6d3)
 
 
-15. After Jupyter Lab shuts down, you will be returned to your GitPod environment. Once there, click on the three lines in the top left corner then click "Gitpod: Stop Workspace" as shown below.  
+14. After Jupyter Lab shuts down, you will be returned to your GitPod environment. Once there, click on the three lines in the top left corner then click "Gitpod: Stop Workspace" as shown below.  
 
 ![stop_gitpod_workspace](https://github.com/user-attachments/assets/e855aaa0-b288-414b-b6b6-1e21c1ffa00a)
 
 
-16. You will see your GitPod shutting down as indicated by the following icon:  
+15. You will see your GitPod shutting down as indicated by the following icon:  
 
 ![stoping_gitpod](https://github.com/user-attachments/assets/b206ba30-32e3-4d20-bffd-dbcf5daa9cdf)
 
 
-17. You are now ready to return to Canvas and upload your completed JN and HTML files, that you downloaded in steps 12 and 13 above, to show you successfully completed this hands-on activity.
+16. You are now ready to return to Canvas and upload your completed JN and HTML files, that you downloaded in steps 12 and 13 above, to show you successfully completed this hands-on activity.
 
 <br>
 
