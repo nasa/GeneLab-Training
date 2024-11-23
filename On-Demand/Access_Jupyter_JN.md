@@ -1,9 +1,11 @@
-## Jupyter Introduction 
+# Jupyter Introduction 
 
 We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on activity using a Jupyter Notebook within a Jupyter Lab environment.  
 > _Note: We'll be using GitPod, so if you haven't done so already, follow [these instructions](../GitPod_Instructions.md) to get your GitPod account set up._  
 
-### Access the Jupyter Introduction Jupyter Notebook
+<br>
+
+## Access the Jupyter Introduction Jupyter Notebook
 
 1. **Open GitPod:** Click the button below to launch an interactive Gitpod workspace with JupyterLab and all necessary dependencies installed.
    
@@ -85,7 +87,7 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
 
 <br>
 
-### Troubleshooting Gitpod Time Out 
+## Troubleshooting Gitpod Time Out 
 
 While completing the JNs in the Jupyter Lab environment, your GitPod session my timeout. If this happens, when you try to run a code cell in your JN you may get an error indicating that a folder or file is not found, as shown below:
 
