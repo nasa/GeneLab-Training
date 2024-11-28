@@ -3,7 +3,7 @@
 During this hands-on activity, we will analyze an RNA sequencing (RNAseq) dataset hosted on OSDR using a Jupyter Notebook (JN) within a Jupyter Lab environment.  
 > _Notes:_
 > - _If you have not completed all activities from the previous [RNAseq Processing JN](Access_Processing_JN.md), please go back and complete those activities before this one._
-> - _We'll be using GitPod, so if you haven't done so already, follow [these instructions](GitPod_Instructions.md) to get your GitPod account set up._  
+> - _We'll be using GitPod, so if you haven't done so already, follow [these instructions](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/On-Demand/GitPod_Instructions.md) to get your GitPod account set up._  
 
 <br>
 
