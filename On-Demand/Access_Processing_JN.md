@@ -3,7 +3,7 @@
 During this hands-on activity, we will process an RNA sequencing (RNAseq) dataset hosted on OSDR using a Jupyter Notebook (JN) within a Jupyter Lab environment.  
 > _Notes:_
 > - _We'll be using GitPod, so if you haven't done so already, follow [these instructions](GitPod_Instructions.md) to get your GitPod account set up._
-> - _This JN will be completed in two separate hands-on activities. If you are starting the second hands-on activity, you must re-run all steps completed in the first hands-on activity before running the steps in activity 2._ 
+> - _This JN will be completed in two separate modules. If you are starting the hands-on activity in MODULE 3, you must re-run all steps completed in the hands-on activity in MODULE 2 before running the steps associated with MODULE 3._ 
 
 <br>
 
@@ -64,21 +64,21 @@ During this hands-on activity, we will process an RNA sequencing (RNAseq) datase
 <br>
 
 9. This will open the first of three Jupyter Notebooks (JNs), titled "RNAseq proccessing: fastq to counts":
-   > _Note: The steps to be completed for the first and second hands-on activities are indicated below._
+   > _Note: The steps to be completed for MODULE 2 and MODULE 3 are indicated below._
 
 ![01-processing](https://github.com/user-attachments/assets/d3fa5516-7e34-4f48-8365-9fbd9d39e0fa)
 
 
 <br>
 
-10. Carefully read through the JN and complete all steps indicated for each hands-on activity and **be sure to save as you go by clicking CMD+S (Mac) or CTRL+S (Windows)**.
-    - HANDS-ON ACTIVITY 1: Complete all activities in steps 0 - 2c of this JN.  
-    - HANDS-ON ACTIVITY 2: Complete all activities in steps 3 - 8b of this JN.  
+10. Carefully read through the JN and complete all steps indicated for each MODULE and **be sure to save as you go by clicking CMD+S (Mac) or CTRL+S (Windows)**.
+    - MODULE 2: Complete all activities in steps 0 - 2c of this JN.  
+    - MODULE 3: Complete all activities in steps 3 - 8b of this JN.  
       > _Note: You must re-run steps 0 - 2c for the subsequent steps to run correctly._  
 
 <br>
 
-11. After you complete all steps assigned for your activity, download the JN to your computer by clicking "File" in the top left corner then "Download" as shown below:
+11. After you complete all steps assigned for your MODULE, download the JN to your computer by clicking "File" in the top left corner then "Download" as shown below:
     > _Note: Keep track of where on your computer you download your completed JN._  
 
 ![download](https://github.com/user-attachments/assets/0f73c1e1-3195-4365-ada9-b3a3b60b1bb5)
@@ -109,7 +109,7 @@ During this hands-on activity, we will process an RNA sequencing (RNAseq) datase
 ![stoping_gitpod](https://github.com/user-attachments/assets/b206ba30-32e3-4d20-bffd-dbcf5daa9cdf)
 
 
-16. You are now ready to **return to Canvas and upload your completed JN and HTML files**, that you downloaded in steps 11 and 12 above, to show you successfully completed the steps of the JN assigned in this hands-on activity.
+16. You are now ready to **return to Canvas and upload your completed JN and HTML files**, that you downloaded in steps 11 and 12 above, to show you successfully completed the steps of the JN assigned in this MODULE.
 
 <br>
 
