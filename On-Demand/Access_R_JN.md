@@ -105,7 +105,7 @@ Next, we'll go through an introduction to coding in R hands-on activity using a 
 ![stoping_gitpod](https://github.com/user-attachments/assets/b206ba30-32e3-4d20-bffd-dbcf5daa9cdf)
 
 
-16. You are now ready to **return to Canvas and upload your completed JN and HTML files**, that you downloaded in steps 12 and 13 above, to show you successfully completed this hands-on activity.
+16. You are now ready to **return to Canvas and upload your completed JN and HTML files**, that you downloaded in steps 11 and 12 above, to show you successfully completed this hands-on activity.
 
 <br>
 
