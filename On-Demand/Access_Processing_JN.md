@@ -66,7 +66,8 @@ During this hands-on activity, we will process an RNA sequencing (RNAseq) datase
 9. This will open the first of three Jupyter Notebooks (JNs), titled "RNAseq proccessing: fastq to counts":
    > _Note: The steps to be completed for the first and second hands-on activities are indicated below._
 
-![select_01-JN_rnaseq](https://github.com/user-attachments/assets/4c5b9744-cec9-4093-bc4e-cf80c1b2b9eb)
+![01-processing](https://github.com/user-attachments/assets/d3fa5516-7e34-4f48-8365-9fbd9d39e0fa)
+
 
 <br>
 
