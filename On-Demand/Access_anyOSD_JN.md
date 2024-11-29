@@ -99,7 +99,7 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 **Important notes and things to look out for while completing this JN:**
 
-In step **0. Create Directory Structure for Processed Data**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Access the RNAseq Analysis Of Any OSD/GLDS Dataset Jupyter Notebook](#Access-the-RNAseq-Analysis-Of-Any-OSD/GLDS-Dataset-Jupyter-Notebook) above. 
+In step **0. Create Directory Structure for Processed Data**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
 
 ![change_OSD_GLDS_bash](https://github.com/user-attachments/assets/9ff41a98-a109-4de1-aae5-0b134ebbdc4a)
 
@@ -125,7 +125,7 @@ Once "R" is selected, click on the "Select" button as shown below. Then, check t
 
 <br>
 
-In step **2b. Set up Directory Path Variables in R**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Access the RNAseq Analysis Of Any OSD/GLDS Dataset Jupyter Notebook](#Access-the-RNAseq-Analysis-Of-Any-OSD/GLDS-Dataset-Jupyter-Notebook) above. 
+In step **2b. Set up Directory Path Variables in R**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
 
 ![change_OSD_GLDS_R](https://github.com/user-attachments/assets/25378a8e-3e1e-48bc-8d19-8fe2ad546e91)
 
