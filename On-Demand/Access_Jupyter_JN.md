@@ -10,7 +10,7 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
 1. **Open GitPod:** Click the button below to launch an interactive Gitpod workspace with JupyterLab and all necessary dependencies installed.
    
 <div align="center">
-    <a href="[https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024)">
+    <a href="https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024">
         <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
     </a>
 </div>
