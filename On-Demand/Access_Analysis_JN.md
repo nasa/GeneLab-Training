@@ -12,7 +12,7 @@ During this hands-on activity, we will analyze an RNA sequencing (RNAseq) datase
 1. **Open GitPod:** Click the button below to launch an interactive Gitpod workspace with JupyterLab and all necessary dependencies installed.
    
 <div align="center">
-    <a href="https://gitpod.io/#[https://github.com/nasa/Training/tree/GL4U_RNAseq_2024](https://github.com/nasa/GeneLab-Training/tree/GL4U_RNAseq_2024)">
+    <a href="https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_RNAseq_2024">
         <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod">
     </a>
 </div>
