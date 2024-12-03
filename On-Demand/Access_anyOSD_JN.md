@@ -99,7 +99,7 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 **Important notes and things to look out for while completing this JN:**
 
-In step **0. Create Directory Structure for Processed Data**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
+In step **0. Create Directory Structure for Processed Data**, make sure you change the OSD and GLDS identifiers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
 
 ![change_OSD_GLDS_bash](https://github.com/user-attachments/assets/9ff41a98-a109-4de1-aae5-0b134ebbdc4a)
 
@@ -125,7 +125,7 @@ Once "R" is selected, click on the "Select" button as shown below. Then, check t
 
 <br>
 
-In step **2b. Set up Directory Path Variables in R**, make sure you change the OSD and GLDS identifers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
+In step **2b. Set up Directory Path Variables in R**, make sure you change the OSD and GLDS identifiers to match the dataset you selected in the [Find An OSD Dataset To Analyze](#find-an-osd-dataset-to-analyze) above. 
 
 ![change_OSD_GLDS_R](https://github.com/user-attachments/assets/25378a8e-3e1e-48bc-8d19-8fe2ad546e91)
 
@@ -172,11 +172,11 @@ In step **2b. Set up Directory Path Variables in R**, make sure you change the O
 
 ## Troubleshooting Gitpod Time Out 
 
-While completing the JNs in the Jupyter Lab environment, your GitPod session my timeout. If this happens, when you try to run a code cell in your JN you may get an error indicating that a folder or file is not found, as shown below:
+While completing the JNs in the Jupyter Lab environment, your GitPod session may timeout. If this happens, when you try to run a code cell in your JN you may get an error indicating that a folder or file is not found, as shown below:
 
 ![GitPot_TimeOut_JN_identified](https://github.com/user-attachments/assets/9a72cba3-64c6-4b54-bc9a-f9b5e635ecf7)
 
-If this happens, look at the tab containing your GitPod terminal (the one that contained the link to the Jupyter Lab). You will likely see the "Timed Out" message shown below. You can re-start your session by click on the "Open Workspace" button as shown below:
+If this happens, look at the tab containing your GitPod terminal (the one that contained the link to the Jupyter Lab). You will likely see the "Timed Out" message shown below. You can re-start your session by clicking on the "Open Workspace" button as shown below:
 > _Note: Once you restart your workspace, make sure you re-run all the code blocks to ensure all variables are re-set and output files are generated._
 
 ![GitPot_TimeOut_Terminal_identified](https://github.com/user-attachments/assets/91b2d26c-582c-415c-8e86-e52c2681f594) 
