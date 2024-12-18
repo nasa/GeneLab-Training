@@ -7,6 +7,8 @@ This directory holds a collection of educational materials created by teacher in
 ---
 ## GL4HS Teacher Content By Year
 
+* [**2024**](2024)
+
 * [**2023**](2023)
 
 * [**2022**](2022)
