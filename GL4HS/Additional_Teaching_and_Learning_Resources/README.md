@@ -3,7 +3,14 @@
 ## Why Teach -omics? 
 High school biology students classically learn about DNA and its mechanisms. Supplementing this general view with contemporary examples and current research strengthens the value of biology education. The study of bioinformatics and omics analyses allows teachers the opportunity to integrate such topics into traditional biology, while helping students to create meaningful connections between classroom learning and the potential for large scale discoveries in health sciences both in space and on Earth. An introduction to bioinformatics and omics analyses also helps to prepare students by practicing skillsets such as data interpretation and inferential reasoning, and can further extend into coding expertise. Giving students the opportunities to practice these skills empowers them to recognize diverse career opportunities in the numerous branches of biology.
 
+<br>
+
 ## How Can We Use Space Biology to Learn About… 
+* [Model Organisms (Organismo Modelo)](#model-organisms)
+* [Data Visualization (Visualizacion de Datos)](#interpreting-visual-representations-of-data-graphs-charts-or-plots)
+* [The Immune System (Sistema Inmunologico)](#the-immune-system)
+* [Plants (Plantas)](#plants)
+* [The Scientific Method](#the-scientific-method) 
 
 <br>
 
