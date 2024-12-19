@@ -44,5 +44,10 @@ GeneLab for High Schools (GL4HS) is a four-week intensive training program for r
 * [**Teacher-Created Materials**](Teacher_Created_Materials)
 
   - Training content created by former GL4HS teacher interns.
+ 
+
+* [**Additional Teaching and Learning Resources**](Additional_Teaching_and_Learning_Resources)
+
+  - Integrating bioinformatics and omics analyses in the context of space biology into traditional lessons enriches learning opportunities for students. These additional materials help learners orient themselves to the ways in which the Open Science Data Repository can be used to learn about a variety of traditional topics.
   
 
