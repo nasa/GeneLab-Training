@@ -21,8 +21,8 @@ Use space biology examples to teach students about the use of model organisms su
 Usa ejemplos de biología espacial para enseñar a los estudiantes sobre el uso de organismos modelo, como ratones, peces cebra y moscas de la fruta, y aprende a navegar por partes de los metadatos en el Repositorio de Datos de GeneLab.
 
 **Model Organisms Training Resources:**
-* [2024 Model Organisms Activity](Model_Organisms/ActivityModelOrganisms_2024.pdf)
-* [2024 Actividad De Organismo Modelo](Model_Organisms/ActividadOrganismoModelo_2024.pdf)
+* [Model Organisms Activity](Model_Organisms/ActivityModelOrganisms_2024.pdf)
+* [Actividad De Organismo Modelo](Model_Organisms/ActividadOrganismoModelo_2024.pdf)
 
 <br>
 
@@ -33,8 +33,8 @@ Use one of the GeneLab Datasets to explore visualizations relevant to assessing 
 Usa uno de los conjuntos de datos de GeneLab para explorar visualizaciones relevantes para evaluar datos en términos de significancia estadística y biológica. Anima a los estudiantes a evaluar lo que muestra un gráfico leyendo las etiquetas.
 
 **Data Visualization Training Resources:**
-* [2024 Data Visualization Activity](Data_Visualization/ActivityDataVisualizations_2024.pdf)
-* [2024 Actividad De Visualizacion De Datos](Data_Visualization/ActividadVisualizacionDeDatos.pdf)
+* [Data Visualization Activity](Data_Visualization/ActivityDataVisualizations_2024.pdf)
+* [Actividad De Visualizacion De Datos](Data_Visualization/ActividadVisualizacionDeDatos.pdf)
 
 <br>
 
@@ -45,8 +45,8 @@ Explore studies in the GeneLab Data Repository associated with the organs of the
 Explora estudios en el Repositorio de Datos de GeneLab asociados con los órganos del sistema inmunológico. Esta actividad puede usarse para introducir un enfoque basado en sistemas para estudios de salud.
 
 **Immune System Training Resources:**
-* [2024 Immune System Activity](Immune_System/ActivityImmuneSystem_2024.pdf)
-* [2024 Actividad De Sistema Inmunologico](Immune_System/ActividadSistemaInmunologico_2024.pdf)
+* [Immune System Activity](Immune_System/ActivityImmuneSystem_2024.pdf)
+* [Actividad De Sistema Inmunologico](Immune_System/ActividadSistemaInmunologico_2024.pdf)
 
 <br>
 
@@ -57,8 +57,8 @@ Using four GeneLab datasets, introduce students to plant model organisms and the
 Usando cuatro conjuntos de datos de GeneLab, introduce a los estudiantes a los organismos modelo vegetales y los tipos de equipos necesarios para realizar experimentos con plantas en el espacio. Esta actividad puede utilizarse para abordar los desafíos de ingeniería necesarios para los sistemas biológicos.
 
 **Plants Training Resources:**
-* [2024 Plants In Space Activity](Plants/ActivityPlantsInSpace_2024.pdf)
-* [2024 Actividad De Plantas En El Spacio](Plants/ActividadPlantasEnElSpacio_2024.pdf)
+* [Plants In Space Activity](Plants/ActivityPlantsInSpace_2024.pdf)
+* [Actividad De Plantas En El Spacio](Plants/ActividadPlantasEnElSpacio_2024.pdf)
 
 <br>
 
@@ -66,4 +66,4 @@ Usando cuatro conjuntos de datos de GeneLab, introduce a los estudiantes a los o
 The Open Science Data Repository can be used to illustrate aspects of the scientific method.
 
 **Scientific Method Training Resources:**
-* [2024 Scientific Method Activity](Scientific_Method/ActivityScientificMethod_2024.pdf)
+* [Scientific Method Activity](Scientific_Method/ActivityScientificMethod_2024.pdf)
