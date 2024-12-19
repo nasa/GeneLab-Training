@@ -1,6 +1,6 @@
-FROM gitpod/workspace-base:latest
+FROM public.ecr.aws/smce/smce-images:smce-oss-earth-base-03544260
 
-USER gitpod
+USER root
 ENV TZ=America/Los_Angeles
 
 # Install system dependencies
