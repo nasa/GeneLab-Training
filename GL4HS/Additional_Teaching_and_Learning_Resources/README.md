@@ -6,10 +6,10 @@ High school biology students classically learn about DNA and its mechanisms. Sup
 <br>
 
 ## How Can We Use Space Biology to Learn About… 
-* [Model Organisms (Organismo Modelo)](#model-organisms)
-* [Data Visualization (Visualizacion de Datos)](#interpreting-visual-representations-of-data-graphs-charts-or-plots)
-* [The Immune System (Sistema Inmunologico)](#the-immune-system)
-* [Plants (Plantas)](#plants)
+* [Model Organisms](#model-organisms)
+* [Data Visualization](#interpreting-visual-representations-of-data-graphs-charts-or-plots)
+* [The Immune System](#the-immune-system)
+* [Plants](#plants)
 * [The Scientific Method](#the-scientific-method) 
 
 <br>
@@ -17,48 +17,36 @@ High school biology students classically learn about DNA and its mechanisms. Sup
 ### Model Organisms 
 Use space biology examples to teach students about the use of model organisms such as mice, zebrafish, and fruit flies, and learn to navigate portions of the metadata on the GeneLab Data Repository.
 
-### Organismo Modelo 
-Usa ejemplos de biología espacial para enseñar a los estudiantes sobre el uso de organismos modelo, como ratones, peces cebra y moscas de la fruta, y aprende a navegar por partes de los metadatos en el Repositorio de Datos de GeneLab.
 
 **Model Organisms Training Resources:**
 * [Model Organisms Activity](Model_Organisms/ActivityModelOrganisms_2024.pdf)
-* [Actividad De Organismo Modelo](Model_Organisms/ActividadOrganismoModelo_2024.pdf)
 
 <br>
 
 ### Interpreting Visual Representations of Data (Graphs, Charts, or Plots) 
 Use one of the GeneLab Datasets to explore visualizations relevant to assessing data for statistical and biological significance. Encourage students to evaluate what a graph depicts by reading labels.
 
-### Visualizacion de Datos 
-Usa uno de los conjuntos de datos de GeneLab para explorar visualizaciones relevantes para evaluar datos en términos de significancia estadística y biológica. Anima a los estudiantes a evaluar lo que muestra un gráfico leyendo las etiquetas.
 
 **Data Visualization Training Resources:**
 * [Data Visualization Activity](Data_Visualization/ActivityDataVisualizations_2024.pdf)
-* [Actividad De Visualizacion De Datos](Data_Visualization/ActividadVisualizacionDeDatos.pdf)
 
 <br>
 
 ### The Immune System 
 Explore studies in the GeneLab Data Repository associated with the organs of the immune system. This activity can be used to introduce a systems-based approach to health studies.
 
-### Sistema Inmunologico 
-Explora estudios en el Repositorio de Datos de GeneLab asociados con los órganos del sistema inmunológico. Esta actividad puede usarse para introducir un enfoque basado en sistemas para estudios de salud.
 
 **Immune System Training Resources:**
 * [Immune System Activity](Immune_System/ActivityImmuneSystem_2024.pdf)
-* [Actividad De Sistema Inmunologico](Immune_System/ActividadSistemaInmunologico_2024.pdf)
 
 <br>
 
 ### Plants 
 Using four GeneLab datasets, introduce students to plant model organisms and the types of equipment needed to conduct plant experiments in space. This activity can be used to address engineering challenges needed for biological systems.
 
-### Plantas 
-Usando cuatro conjuntos de datos de GeneLab, introduce a los estudiantes a los organismos modelo vegetales y los tipos de equipos necesarios para realizar experimentos con plantas en el espacio. Esta actividad puede utilizarse para abordar los desafíos de ingeniería necesarios para los sistemas biológicos.
 
 **Plants Training Resources:**
 * [Plants In Space Activity](Plants/ActivityPlantsInSpace_2024.pdf)
-* [Actividad De Plantas En El Spacio](Plants/ActividadPlantasEnElSpacio_2024.pdf)
 
 <br>
 
