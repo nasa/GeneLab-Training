@@ -16,4 +16,14 @@ GL4U is designed by [NASA GeneLab](https://www.nasa.gov/osdr-genelab-about/) in 
 ## Assay Types
 Click on an assay type below for training material:
 - [RNA Sequencing](RNAseq)
-- [Amplicon Sequencing](AmpSeq)  
+- [Amplicon Sequencing](AmpSeq)
+
+---
+## Office Hours for On-Demand Courses
+Click on a link below for office hours information and schedule:
+- [Summer 2025]()
+  - Courses covered:
+      - [GL4U: Introduction](https://www.nasa.gov/gl4u-on-demand-courses/)
+      - [GL4U: RNA Sequencing](https://www.nasa.gov/gl4u-on-demand-courses/) 
+
+
