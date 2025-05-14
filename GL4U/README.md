@@ -25,7 +25,7 @@ Click on an assay type below for training material:
 ---
 ## Office Hours for On-Demand Courses
 Click on a link below for office hours information and schedule:
-- [Summer 2025]()
+- [Summer 2025](https://github.com/nasa/GeneLab-Training/wiki/GL4U-Office-Hours-for-On%E2%80%90Demand-Courses:-Summer-2025)
   - Courses covered:
       - [GL4U: Introduction](https://www.nasa.gov/gl4u-on-demand-courses/)
       - [GL4U: RNA Sequencing](https://www.nasa.gov/gl4u-on-demand-courses/) 
