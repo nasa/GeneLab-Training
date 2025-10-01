@@ -1,8 +1,7 @@
-name: gl4u_rnaseq_2024
+name: gl4u_rnaseq
 channels:
   - conda-forge
   - bioconda
-  - defaults
 dependencies:
   - python==3.10
   - pip

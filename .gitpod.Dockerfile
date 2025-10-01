@@ -34,9 +34,11 @@ RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh \
 # Add conda to path
 ENV PATH=$HOME/miniconda3/bin:$PATH
 
-# Update conda and install mamba
-RUN conda update -n base -c defaults conda \
-    && conda install -n base -c conda-forge mamba
+# Drop defaults channel and update mamba
+RUN conda config --remove channels defaults \
+    && conda config --add channels conda-forge \
+    && conda update -n base -c conda-forge conda -y --override-channels \
+    && conda install -n base -c conda-forge mamba -y --override-channels
 
 # Copy environment file
 COPY environment.yml /tmp/environment.yml
@@ -46,7 +48,7 @@ RUN mamba env create -f /tmp/environment.yml \
     && conda clean -afy
 
 # Enable Jupyter extensions
-RUN /bin/bash -c "source activate gl4u_rnaseq_2024 \
+RUN /bin/bash -c "source activate gl4u_rnaseq \
     && jupyter contrib nbextension install --user \
     && jupyter nbextensions_configurator enable --user"
 
@@ -67,7 +69,7 @@ RUN mkdir -p ~/.R && \
     echo "options(repos = c(CRAN = 'https://cloud.r-project.org'))" > ~/.Rprofile
 
 # Install additional R packages
-RUN conda run -n gl4u_rnaseq_2024 R -e "\
+RUN conda run -n gl4u_rnaseq R -e "\
     options(repos = c(CRAN = 'https://cloud.r-project.org')); \
     if (!requireNamespace('BiocManager', quietly = TRUE)) install.packages('BiocManager', dependencies = TRUE); \
     BiocManager::install(c( \
@@ -93,5 +95,5 @@ RUN conda run -n gl4u_rnaseq_2024 R -e "\
     install.packages('tidyHeatmap', dependencies = TRUE);"
 
 # Install RSeQC 5.0.3 and add to PATH
-RUN conda run -n gl4u_rnaseq_2024 pip install RSeQC==5.0.3 && \
-    echo 'export PATH=$PATH:$HOME/miniconda3/envs/gl4u_rnaseq_2024/bin' >> $HOME/.bashrc
+RUN conda run -n gl4u_rnaseq pip install RSeQC==5.0.3 && \
+    echo 'export PATH=$PATH:$HOME/miniconda3/envs/gl4u_rnaseq/bin' >> $HOME/.bashrc
