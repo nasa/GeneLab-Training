@@ -1,4 +1,4 @@
-image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq_2025
+image: quay.io/nasa_genelab/gl4u:gl4u_rnaseq
 
 tasks:
   - name: Setup Environment and Start Jupyter Lab
@@ -48,8 +48,12 @@ tasks:
       
       # Activate Conda environment
       source $HOME/miniconda3/etc/profile.d/conda.sh
-      conda activate gl4u_rnaseq
+      conda activate gl4u_rnaseq_2024
       
+      # Install dp-tools
+      pip install --upgrade git+https://github.com/torres-alexis/dp_tools.git@1.3.9
+      echo "dp_tools 1.3.9 installed"
+
       # Set R variables (after Conda activation)
       echo "workDir <- Sys.getenv('workDir')" >> ~/.Rprofile
       echo "metadata_dir <- \"/workspace/GeneLab-Training/OSD-104/Metadata\"" >> ~/.Rprofile
