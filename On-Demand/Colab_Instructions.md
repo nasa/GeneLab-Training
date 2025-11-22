@@ -18,19 +18,28 @@ the instructions..
 [Google Colab](https://colab.research.google.com/). If you are successfully logged in, you should see the following 
 pop-up.
 
-<img src="../images/Welcome_to_colab.png" align="center" alt="" width="200" height="200"/>
+<p align="center">
+  <img src="../images/Welcome_to_colab.png" width="800" height="800">
+</p>
+
 <br/>
 
 2. Click "Cancel" in the bottom right corner of the pop-up, then take a screenshot of your Google Colab homepage, which should look as follows:
 
-<img src="../images/Colab_homepage.png" align="center" alt="" width="200" height="200"/>
+<p align="center">
+  <img src="../images/Colab_homepage.png" width="800" height="800">
+</p>
+
 <br/>
 
 3. Next, open a new browser tab and go to [Google Drive](https://drive.google.com/drive/home). If you are successfully logged in, you 
 will see your google drive homepage, which will look as follows. Take a screenshot of your Google Drive homepage. 
    > _Note: All of the files you generate during the GL4U courses will be saved in your google drive._
 
-<img src="../images/Drive_homepage.png" align="center" alt="" width="200" height="200"/>
+<p align="center">
+  <img src="../images/Drive_homepage.png" width="800" height="800">
+</p>
+
 <br/>
 
 4. Return to Canvas and upload the screenshots of both your Google Colab homepage and your Google Drive homepage to "HANDS-ON_ACTIVITY_1" 

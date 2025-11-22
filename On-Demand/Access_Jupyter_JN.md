@@ -13,7 +13,7 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
    > _Note: It is recommended to open the Colab notebook in a new tab so these instructions remain available._
 
 <p align="center">
-  <img src="../images/GL4U_Intro_Colab_README_Jupyter.png" width="600" height="600">
+  <img src="../images/GL4U_Intro_Colab_README_Jupyter.png" width="800" height="800">
 </p>
 
 <br/> 
@@ -21,7 +21,7 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
 3. You should now see the 01-jupyter-intro jupyter notebook (JN) opened in Google Colab, as shown below:
 
 <p align="center">
-  <img src="../images/Open_Jupyter_JN.png" width="600" height="600">
+  <img src="../images/Open_Jupyter_JN.png" width="800" height="800">
 </p>
 
 <br/>
@@ -30,27 +30,27 @@ We'll start with an introduction to [Jupyter](https://jupyter.org/) hands-on act
    > Note: When you run your first code cell in the Colab notebook, you may see the following pop-up. If you do, click "Run anyway" to continue, as shown below:
 
 <p align="center">
-  <img src="../images/click_run_anyway.png" width="600" height="600">
+  <img src="../images/click_run_anyway.png" width="800" height="800">
 </p>
 
 <br/>
 
-5. After you have completed all activities in the 01-jupyter-intro JN and saved your completed JN to your Google Drive, open [Google Drive](https://drive.google.com/drive/my-drive) in a new tab, and click "My Drive" in the left side panel, then double click on the "Colab Notebooks" folder as shown below.
+## Upload Your Completed JN To Canvas
+
+1. After you have completed all activities in the 01-jupyter-intro JN and saved your completed JN to your Google Drive, open [Google Drive](https://drive.google.com/drive/my-drive) in a new tab, and click "My Drive" in the left side panel, then double click on the "Colab Notebooks" folder as shown below.
 
 <p align="center">
-  <img src="../images/gd-open-colab-notebooks.png" width="600" height="600">
+  <img src="../images/gd-open-colab-notebooks.png" width="800" height="800">
 </p>
 
 <br/>
 
-6. In the "Colab Notebooks" folder, click on the 3 dots to the right of the "Copy of 01-jupyter-intro.ipynb" file, then click "Download", as shown below, to save a copy to your computer.
+2. In the "Colab Notebooks" folder, click on the 3 dots to the right of the "Copy of 01-jupyter-intro.ipynb" file, then click "Download", as shown below, to save a copy to your computer.
 
 <p align="center">
-  <img src="../images/gd-download-01-JN.png" width="600" height="600">
+  <img src="../images/gd-download-01-JN.png" width="800" height="800">
 </p>
 
 <br/>
 
-7. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_2" to receive credit.  
-
-
+3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_2" to receive credit.  
