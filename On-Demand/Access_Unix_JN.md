@@ -32,7 +32,7 @@ Next, we'll go through an introduction to coding in Unix hands-on activity using
    > Note: When you run your first code cell in the Colab notebook, you may see the following pop-up. If you do, click "Run anyway" to continue, as shown below:
 
 <p align="center">
-  <img src="../images/click_run_anyway_all-JNs.png" width="800" height="800">
+  <img src="../images/click_run_anyway_all-JNs.png" width="600" height="600">
 </p>
 
 <br/>
