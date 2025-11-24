@@ -58,8 +58,8 @@ When you open the project in Gitpod:
 ### GL4U Intro Lectures
 1. [Introduction to NASA, the Science Mission Directorate (SMD), and Space Biology](GL4U_Intro_Lectures/GL4U_Intro_NASA_SMD_SB_Overview_2024_compressed.pdf)
 2. [Introduction to the NASA Open Science Data Repository (OSDR) and GeneLab](GL4U_Intro_Lectures/GL4U_Intro_OSDR_GL_Overview_2024_compressed.pdf)
-3. [Introduction to the command line, Unix and R commands, and Jupyter](GL4U_Intro_Lectures/CL_R_Jupyter_Intro_2024.pdf)
-4. [Overview of short read sequencing](GL4U_Intro_Lectures/Short_Read_Sequencing_Overview_2024_compressed.pdf)
+3. [Introduction to the command line, Unix and R commands, and Jupyter](GL4U_Intro_Lectures/GL4U_Intro_CL_R_Jupyter_Intro_2024.pdf)
+4. [Overview of short read sequencing](GL4U_Intro_Lectures/GL4U_Intro_Short_Read_Sequencing_Overview_2024_compressed.pdf)
 
 <br>
 
