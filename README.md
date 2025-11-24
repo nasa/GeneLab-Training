@@ -16,10 +16,12 @@ To launch a notebook, click the "Open in Colab" button next to its name.
 
 4. [Sequencing Data Quality Control](GL4U_Intro_JNs/04-sequencing-data-QC.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa/GeneLab-Training/blob/GL4U_Intro_2024_Colab/GL4U_Intro_JNs/04-sequencing-data-QC.ipynb)
 
-### Lecture Materials
+<br>
 
-1. [Introduction to NASA, Science Mission Directorate, Space Biology, Open Science Data Repository, and GeneLab](GL4U_Intro_Lectures/GL4U_Intro_NASA_SMD_SB_Overview_2024_compressed.pdf)
+### GL4U Intro Lecture Materials
 
-2. [Introduction to the command line, Unix and R commands, and Jupyter](GL4U_Intro_Lectures/GL4U_Intro_CL_R_Jupyter_Intro_2024.pdf)
+1. [Introduction to NASA, the Science Mission Directorate (SMD), and Space Biology](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_NASA_SMD_SB_Overview_2024_compressed.pdf)  
+2. [Introduction to the NASA Open Science Data Repository (OSDR) and GeneLab](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_OSDR_GL_Overview_2024_compressed.pdf)  
+3. [Introduction to the command line, Unix and R commands, and Jupyter](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_CL_R_Jupyter_Intro_2024.pdf)  
+4. [Overview of short read sequencing](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_Short_Read_Sequencing_Overview_2024_compressed.pdf)  
 
-3. [Overview of short read sequencing](GL4U_Intro_Lectures/GL4U_Intro_Short_Read_Sequencing_Overview_2024_compressed.pdf)
