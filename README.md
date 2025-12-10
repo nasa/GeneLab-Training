@@ -2,6 +2,8 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_RNAseq_2024)  
 *Click the button above to launch an interactive Gitpod workspace.*
+> Note: [Gitpod](https://gitpod.io/) has been replaced with [Ona](https://ona.com/) so the button above may not work. We are in the process of making these notebooks compatible with Ona, but in the meantime all GL4U RNAseq JNs are now available to run with [Google Colab](https://colab.google/).
+> Visit the [GL4U RNAseq 2024 Colab](https://github.com/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024_Colab/README.md) branch of this repository to access the Colab versions of these JNs. 
 
 <details id="understanding-gitpod-session-timeouts">
   <summary>⚠️ <strong>Important: Understand Gitpod Session Timeouts Before Launching Gitpod</strong></summary>
@@ -48,13 +50,18 @@ When you open the project in Gitpod:
 ### GL4U RNAseq JNs
 1. [RNAseq Data Processing](GL4U_RNAseq_JNs/01-RNAseq_processing.ipynb)
 2. [RNAseq Data Analysis](GL4U_RNAseq_JNs/02-RNAseq_analysis.ipynb)
+3. [RNAseq Data Analysis Any OSD](GL4U_RNAseq_JNs/03-RNAseq_analysis_anyOSD.ipynb)
+4a. [RNAseq Isoform Data Analysis Any OSD - Gene Annotation](GL4U_RNAseq_JNs/04a-RNAseq_analysis_isoforms_anyOSD_geneAnnot.ipynb)
+4b. [RNAseq Isoform Data Analysis Any OSD - Transcript Annotation](GL4U_RNAseq_JNs/04b-RNAseq_analysis_isoforms_anyOSD_transAnnot.ipynb)
 
 ### OSD-104
 * [OSD-104](OSD-104)
   - Directory holding the input files we will use in the GL4U RNAseq JNs to process RNAseq data from [OSD-104](https://osdr.nasa.gov/bio/repo/data/studies/OSD-104).
 
-### GL4U Intro Lectures
-1. [RNAseq Overview](GL4U_RNAseq_Lectures/RNAseq_Overview_2024_compressed.pdf) 
+### GL4U RNAseq Lectures
+> *Note: These lecture slides were created in 2024, so some of the information contained within may be outdated.* 
+1. [RNAseq Overview](GL4U_RNAseq_Lectures/GL4U_RNAseq_RNAseq_Overview_2024_compressed.pdf) 
+2. [Statistics Overview](GL4U_RNAseq_Lectures/GL4U_RNAseq_Statistics_Overview_2024_compressed.pdf)
 
 <br>
 
