@@ -19,3 +19,11 @@ To launch a notebook, click the "Open in Colab" button next to its name.
 5a. [RNAseq Isoform Data Analysis Any OSD - Gene Annotation](GL4U_RNAseq_JNs/05a_RNAseq_analysis_isoforms_anyOSD_geneAnnot_colab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024_Colab/GL4U_RNAseq_JNs/05a_RNAseq_analysis_isoforms_anyOSD_geneAnnot_colab.ipynb)
 
 5b. [RNAseq Isoform Data Analysis Any OSD - Transcript Annotation](GL4U_RNAseq_JNs/05b_RNAseq_analysis_isoforms_anyOSD_transAnnot_colab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024_Colab/GL4U_RNAseq_JNs/05b_RNAseq_analysis_isoforms_anyOSD_transAnnot_colab.ipynb)
+
+<br>
+
+### GL4U RNAseq Lecture Materials
+> *Note: These lecture slides were created in 2024, so some of the information contained within may be outdated.*
+
+1. [RNAseq Overview](https://github.com/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024/GL4U_RNAseq_Lectures/GL4U_RNAseq_RNAseq_Overview_2024_compressed.pdf)
+2. [Statistics Overview](https://github.com/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024/GL4U_RNAseq_Lectures/GL4U_RNAseq_Statistics_Overview_2024_compressed.pdf)
