@@ -19,6 +19,7 @@ To launch a notebook, click the "Open in Colab" button next to its name.
 <br>
 
 ### GL4U Intro Lecture Materials
+> *Note: These lecture slides were created in 2024, so some of the information contained within may be outdated.*
 
 1. [Introduction to NASA, the Science Mission Directorate (SMD), and Space Biology](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_NASA_SMD_SB_Overview_2024_compressed.pdf)  
 2. [Introduction to the NASA Open Science Data Repository (OSDR) and GeneLab](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024/GL4U_Intro_Lectures/GL4U_Intro_OSDR_GL_Overview_2024_compressed.pdf)  
