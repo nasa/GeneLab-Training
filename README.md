@@ -2,6 +2,10 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_Intro_2024)  
 *Click the button above to launch an interactive Gitpod workspace.*  
+> Note: [Gitpod](https://gitpod.io/) has been replaced with [Ona](https://ona.com/) so the button above may not work. We are in the process of making these notebooks compatible with Ona, but in the meantime all GL4U Intro JNs are now available to run with [Google Colab](https://colab.google/).
+>   
+> Visit the [GL4U Intro 2024 Colab](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024_Colab/README.md) branch of this repository to access the Colab versions of these JNs. 
+
 
 <details id="understanding-gitpod-session-timeouts">
   <summary>⚠️ <strong>Important: Understand Gitpod Session Timeouts Before Launching Gitpod</strong></summary>
@@ -56,6 +60,8 @@ When you open the project in Gitpod:
   - Directory holding the input files we will use in the GL4U Intro JNs
 
 ### GL4U Intro Lectures
+> *Note: These lecture slides were created in 2024, so some of the information contained within may be outdated.*
+
 1. [Introduction to NASA, the Science Mission Directorate (SMD), and Space Biology](GL4U_Intro_Lectures/GL4U_Intro_NASA_SMD_SB_Overview_2024_compressed.pdf)
 2. [Introduction to the NASA Open Science Data Repository (OSDR) and GeneLab](GL4U_Intro_Lectures/GL4U_Intro_OSDR_GL_Overview_2024_compressed.pdf)
 3. [Introduction to the command line, Unix and R commands, and Jupyter](GL4U_Intro_Lectures/GL4U_Intro_CL_R_Jupyter_Intro_2024.pdf)
