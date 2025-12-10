@@ -3,6 +3,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nasa/GeneLab-Training/tree/GL4U_RNAseq_2024)  
 *Click the button above to launch an interactive Gitpod workspace.*
 > Note: [Gitpod](https://gitpod.io/) has been replaced with [Ona](https://ona.com/) so the button above may not work. We are in the process of making these notebooks compatible with Ona, but in the meantime all GL4U RNAseq JNs are now available to run with [Google Colab](https://colab.google/).
+>   
 > Visit the [GL4U RNAseq 2024 Colab](https://github.com/nasa/GeneLab-Training/blob/GL4U_RNAseq_2024_Colab/README.md) branch of this repository to access the Colab versions of these JNs. 
 
 <details id="understanding-gitpod-session-timeouts">
@@ -50,9 +51,9 @@ When you open the project in Gitpod:
 ### GL4U RNAseq JNs
 1. [RNAseq Data Processing](GL4U_RNAseq_JNs/01-RNAseq_processing.ipynb)
 2. [RNAseq Data Analysis](GL4U_RNAseq_JNs/02-RNAseq_analysis.ipynb)
-3. [RNAseq Data Analysis Any OSD](GL4U_RNAseq_JNs/03-RNAseq_analysis_anyOSD.ipynb)
-4a. [RNAseq Isoform Data Analysis Any OSD - Gene Annotation](GL4U_RNAseq_JNs/04a-RNAseq_analysis_isoforms_anyOSD_geneAnnot.ipynb)
-4b. [RNAseq Isoform Data Analysis Any OSD - Transcript Annotation](GL4U_RNAseq_JNs/04b-RNAseq_analysis_isoforms_anyOSD_transAnnot.ipynb)
+3. [RNAseq Data Analysis Any OSD](GL4U_RNAseq_JNs/03-RNAseq_analysis_anyOSD.ipynb)  
+4a. [RNAseq Isoform Data Analysis Any OSD - Gene Annotation](GL4U_RNAseq_JNs/04a-RNAseq_analysis_isoforms_anyOSD_geneAnnot.ipynb)  
+4b. [RNAseq Isoform Data Analysis Any OSD - Transcript Annotation](GL4U_RNAseq_JNs/04b-RNAseq_analysis_isoforms_anyOSD_transAnnot.ipynb)  
 
 ### OSD-104
 * [OSD-104](OSD-104)
