@@ -3,6 +3,7 @@
 During this hands-on activity, we will analyze an RNA sequencing (RNAseq) dataset hosted on OSDR using a Jupyter Notebook (JN) within a Google Colab environment.  
 > _Notes:_
 > - _If you have not completed all activities from the previous [RNAseq Processing 2of2 JN](Access_Processing_2of2_JN.md), please go back and complete those activities before this one._
+> - _This JN is the hands-on activity associated with MODULE 4._
 > - _We'll be using Google Colab, so if you haven't done so already, follow [these instructions](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024_Colab/On-Demand/Colab_Instructions.md) to set up your Google account and verify access to Google Colab._
 
 <br>
@@ -55,4 +56,4 @@ During this hands-on activity, we will analyze an RNA sequencing (RNAseq) datase
 
 <br/>
 
-3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_X" to receive credit.  
+3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_3" to receive credit.  

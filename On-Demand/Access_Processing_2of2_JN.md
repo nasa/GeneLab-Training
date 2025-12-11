@@ -56,4 +56,4 @@ During this hands-on activity, we will continue processing an RNA sequencing (RN
 
 <br/>
 
-3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_X" to receive credit.  
+3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_2" to receive credit.  

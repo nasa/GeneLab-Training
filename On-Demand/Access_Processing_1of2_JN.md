@@ -55,4 +55,4 @@ During this hands-on activity, we will process an RNA sequencing (RNAseq) datase
 
 <br/>
 
-3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_X" to receive credit.  
+3. Return to Canvas and upload your completed JN to "HANDS-ON_ACTIVITY_1" to receive credit.  
