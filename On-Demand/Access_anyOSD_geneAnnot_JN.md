@@ -43,7 +43,7 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 2. Navigate to the [GL4U_RNAseq_2024_Colab README](../README.md) page and click on the "Open in Colab" icon next to "5a. RNAseq Isoform Data Analysis Any OSD - Gene Annotation", as shown below:
    > _Notes:_
-   > - _This JN uses gene IDs to add annotation columns to your differential isoform expression output table. Since gene IDs often have more complete annotations, we recommend to use this this JN when analyzing isoform data, and then look up the precise annotation for any specific isoforms (transcript IDs) of interest. 
+   > - _This JN uses gene IDs to add annotation columns to your differential isoform expression output table. Since gene IDs often have more complete annotations, we recommend to use this this JN when analyzing isoform data, and then look up the precise annotation for any specific isoforms (transcript IDs) of interest._ 
    > - _It is recommended to open the Colab notebook in a new tab so these instructions remain available._
 
 <p align="center">
