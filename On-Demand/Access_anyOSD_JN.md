@@ -67,7 +67,7 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 <br/>
 
-## Save Your Completed JN
+## Access Your Completed JN and Output Files
 
 1. After you have completed all activities in the 04_RNAseq_analysis_anyOSD_colab.ipynb JN and saved your completed JN to your Google Drive, open [Google Drive](https://drive.google.com/drive/my-drive) in a new tab, and click "My Drive" in the left side panel, then double click on the "Colab Notebooks" folder as shown below.
 
@@ -77,10 +77,12 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 <br/>
 
-2. In the "Colab Notebooks" folder, click on the 3 dots to the right of the "Copy of 04_RNAseq_analysis_anyOSD_colab.ipynb" file, then click "Download", as shown below, to save a copy to your computer.
+2. You should see the "Copy of 04_RNAseq_analysis_anyOSD_colab.ipynb" file in the "Colab Notebooks" folder, as shown below.
+
+   > _Note: Since this is not a required assignment in GL4U, you do not have to upload this JN to Canvas._
 
 <p align="center">
-  <img src="../images/gd_download_04_JN.png" width="800" height="800">
+  <img src="../images/gd_access_04_JN.png" width="800" height="800">
 </p>
 
 <br/>
