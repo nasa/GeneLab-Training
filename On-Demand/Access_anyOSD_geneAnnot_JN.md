@@ -3,7 +3,7 @@
 During this (optional) hands-on activity, you will have the opportunity to analyze the isoform data from any RNA sequencing (RNAseq) dataset hosted on OSDR using a Jupyter Notebook (JN) within a Google Colab environment.  
 > _Notes:_
 > - _If you have not completed all activities from the previous [RNAseq Analysis JN](Access_Analysis_JN.md), please go back and complete those activities before this one._
-> - _This JN uses gene IDs to add annotation columns to your differential isoform expression output table._
+> - _This JN uses gene IDs to add annotation columns to your differential transcript expression output table._
 > - _We'll be using Google Colab, so if you haven't done so already, follow [these instructions](https://github.com/nasa/GeneLab-Training/blob/GL4U_Intro_2024_Colab/On-Demand/Colab_Instructions.md) to set up your Google account and verify access to Google Colab._
 
 <br>
@@ -35,12 +35,11 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 <br/>
 
-
 <br>
 
 ## Access the RNAseq Isoform Analysis Of Any OSD/GLDS Dataset Jupyter Notebook
 
-1. If you are not already logged in to your Google account, got to [https://accounts.google.com/](https://accounts.google.com/) and log in.
+1. If you are not already logged in to your Google account, go to [https://accounts.google.com/](https://accounts.google.com/) and log in.
 
 2. Navigate to the [GL4U_RNAseq_2024_Colab README](../README.md) page and click on the "Open in Colab" icon next to "5a. RNAseq Isoform Data Analysis Any OSD - Gene Annotation", as shown below:
    > _Notes:_
@@ -70,7 +69,7 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 <br/>
 
-## Save Your Completed JN
+## Access Your Completed JN and Output Files
 
 1. After you have completed all activities in the 05a_RNAseq_analysis_isoforms_anyOSD_geneAnnot_colab.ipynb JN and saved your completed JN to your Google Drive, open [Google Drive](https://drive.google.com/drive/my-drive) in a new tab, and click "My Drive" in the left side panel, then double click on the "Colab Notebooks" folder as shown below.
 
@@ -80,14 +79,19 @@ During this (optional) hands-on activity, you will have the opportunity to analy
 
 <br/>
 
-2. In the "Colab Notebooks" folder, click on the 3 dots to the right of the "Copy of 05a_RNAseq_analysis_isoforms_anyOSD_geneAnnot_colab.ipynb" file, then click "Download", as shown below, to save a copy to your computer.
+2. You should see the "Copy of 05a_RNAseq_analysis_isoforms_anyOSD_geneAnnot_colab.ipynb" file in the "Colab Notebooks" folder, as shown below.
+
+   > _Note: Since this is not a required assignment in GL4U, you do not have to upload this JN to Canvas._
 
 <p align="center">
-  <img src="../images/gd_download_05a_JN.png" width="800" height="800">
+  <img src="../images/gd_access_05a_JN.png" width="800" height="800">
 </p>
 
 <br/>
 
-3. You should now have a copy of your completed JN saved to your computer
+3. To access the output files you generated for your select OSD/GLDS dataset, open [Google Drive](https://drive.google.com/drive/my-drive) in a new tab, and click on "My Drive" in the left side panel. Then double click on the "NASA" folder, then the "GL4U" folder, then the "RNAseq" folder, and finally the "OSD-###_GLDS-###" folder (note that the "###" should be the OSD and GLDS numbers of the dataset you processed), as shown below. Inside the "OSD-###_GLDS-###" folder, you will see all of the output folders that you created and the output files you generated for each respective step will be within that directory structure. 
  
-   > _Note: Since this is not a required assignment in GL4U, you do not have to upload this JN to Canvas._  
+<p align="center">
+  <img src="../images/gd_OSD-GLDS_outputs_DTE.png" width="800" height="800">
+</p>
+
