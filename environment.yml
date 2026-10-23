@@ -1,0 +1,53 @@
+name: gl4u_rnaseq_2024
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python==3.10
+  - pip
+  - pandas
+  - jupyterlab==4.2.5
+  - notebook==6.5.5
+  - bash_kernel==0.9.3
+  - r-irkernel
+  - coreutils
+  - htslib
+  - openssl
+  - nodejs
+  # ---- R and the R/Bioconductor packages used by RNAseq_analysis_anyOSD_colab.ipynb ----
+  # Installed here as conda binaries so nothing has to be compiled from source inside R
+  # (install.packages()/BiocManager::install() fail in conda R when no gfortran/C++ toolchain is present).
+  - r-base==4.4.1
+  - r-biocmanager==1.30.25
+  - r-tidyverse==2.0.0
+  - r-ggfortify==0.4.17
+  - r-ggnewscale==0.5.0
+  - r-ggrepel
+  - r-httr
+  - r-glue
+  - r-igraph
+  - r-ape
+  - r-nlme
+  - r-tidyheatmap
+  - bioconductor-deseq2
+  - bioconductor-tximport
+  - bioconductor-complexheatmap
+  - bioconductor-enhancedvolcano
+  - bioconductor-clusterprofiler
+  - bioconductor-enrichplot
+  - bioconductor-dose
+  - bioconductor-fgsea
+  - bioconductor-goseq
+  - bioconductor-org.mm.eg.db      # mouse annotation package used by GSEA (Step 5d); add others as needed, e.g. bioconductor-org.hs.eg.db, bioconductor-org.at.tair.db
+  # ---- tools used by the 01-03 GL4U RNAseq notebooks (unchanged) ----
+  - star==2.7.11b
+  - cutadapt==4.9
+  - trim-galore==0.6.10
+  - fastqc==0.12.1
+  - multiqc==1.24.1
+  - samtools==1.21
+  - pip:
+    - jupyter_contrib_nbextensions==0.7.0
+    - jupyter_nbextensions_configurator==0.6.3
+    - nbclassic==0.4.8
